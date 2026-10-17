@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shah Spectrum</title>
+    <link>https://darshanhshah.github.io/shah-spectrum-podcast/</link>
+    <atom:link href="https://darshanhshah.github.io/shah-spectrum-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>© Shah Spectrum</copyright>
+    <description>There's more to a headline than the headline.
+
+Shah Spectrum is a daily briefing on finance, the economy and technology. Each episode takes one story from the news and explains what happened, why it happened and why it matters, in about five minutes. No jargon, no hype, and no advice on what to buy or sell.
+
+Narrated by an AI-generated voice. Made to explain the news, not as investment advice.</description>
+    <itunes:subtitle>Finance, economy and tech, one layer deeper.</itunes:subtitle>
+    <itunes:summary>There's more to a headline than the headline. Shah Spectrum is a daily briefing on finance, the economy and technology. Narrated by an AI-generated voice. Made to explain the news, not as investment advice.</itunes:summary>
+    <itunes:author>Shah Spectrum</itunes:author>
+    <itunes:owner>
+      <itunes:name>Shah Spectrum</itunes:name>
+      <itunes:email>OWNER_EMAIL_TO_CONFIRM</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://darshanhshah.github.io/shah-spectrum-podcast/cover.jpg"/>
+    <itunes:category text="Business"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <!-- EPISODES: newest first. Add items with scripts/add_episode.py -->
+  </channel>
+</rss>
