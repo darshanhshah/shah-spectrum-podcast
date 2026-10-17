@@ -1,2 +1,3 @@
-# shah-spectrum-podcast
-Daily finance and macro podcast feed.
+# Shah Spectrum podcast feed
+
+Public feed, cover art and approved episodes only. Drafts live elsewhere.
