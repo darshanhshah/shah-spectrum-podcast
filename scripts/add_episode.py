@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Add one episode to feed.xml (newest first).
-Usage: add_episode.py EPISODE.mp3 "Title" "Description" [--date "2026-10-17T07:00:00+08:00"] [--number N]
+Usage: (run scripts/make_subtitles.py first so the transcript tags are added) add_episode.py EPISODE.mp3 "Title" "Description" [--date "2026-10-17T07:00:00+08:00"] [--number N]
 The mp3 must already be in episodes/. Audio is labelled as AI-generated in the description."""
 import sys, os, subprocess, argparse, datetime, html, re
 ap=argparse.ArgumentParser(); ap.add_argument('mp3'); ap.add_argument('title'); ap.add_argument('desc')
@@ -13,6 +13,11 @@ dur=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','forma
 d=datetime.datetime.fromisoformat(a.date) if a.date else datetime.datetime.now(datetime.timezone.utc)
 pub=d.strftime('%a, %d %b %Y %H:%M:%S %z')
 guid=os.path.basename(path)
+stem=os.path.splitext(os.path.basename(path))[0]
+tr=''
+for ext,typ in (('vtt','text/vtt'),('srt','application/x-subrip')):
+    if os.path.exists(os.path.join(root,'transcripts',stem+'.'+ext)):
+        tr+=f'\n      <podcast:transcript url="{base}/transcripts/{stem}.{ext}" type="{typ}" language="en"/>'
 e=html.escape
 item=f'''    <item>
       <title>{e(a.title)}</title>
@@ -22,7 +27,7 @@ item=f'''    <item>
       <guid isPermaLink="false">{e(guid)}</guid>
       <enclosure url="{base}/episodes/{e(os.path.basename(path))}" length="{size}" type="audio/mpeg"/>
       <itunes:duration>{int(dur)}</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>{tr}
       <itunes:episodeType>full</itunes:episodeType>{f"{chr(10)}      <itunes:episode>{a.number}</itunes:episode>" if a.number else ""}
     </item>
 '''

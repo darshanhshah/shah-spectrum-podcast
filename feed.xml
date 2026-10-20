@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Shah Spectrum</title>
     <link>https://darshanhshah.github.io/shah-spectrum-podcast/</link>
@@ -33,6 +33,8 @@ Narrated by an AI-generated voice. Made to explain the news, not as investment a
       <enclosure url="https://darshanhshah.github.io/shah-spectrum-podcast/episodes/shah-spectrum-003-forex-reserves.mp3" length="3843060" type="audio/mpeg"/>
       <itunes:duration>240</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://darshanhshah.github.io/shah-spectrum-podcast/transcripts/shah-spectrum-003-forex-reserves.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://darshanhshah.github.io/shah-spectrum-podcast/transcripts/shah-spectrum-003-forex-reserves.srt" type="application/x-subrip" language="en"/>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
     </item>
@@ -45,6 +47,8 @@ Narrated by an AI-generated voice. Made to explain the news, not as investment a
       <enclosure url="https://darshanhshah.github.io/shah-spectrum-podcast/episodes/shah-spectrum-002-tesla-roadster.mp3" length="3950772" type="audio/mpeg"/>
       <itunes:duration>246</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://darshanhshah.github.io/shah-spectrum-podcast/transcripts/shah-spectrum-002-tesla-roadster.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://darshanhshah.github.io/shah-spectrum-podcast/transcripts/shah-spectrum-002-tesla-roadster.srt" type="application/x-subrip" language="en"/>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
     </item>
