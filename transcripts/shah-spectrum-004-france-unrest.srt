@@ -1,0 +1,328 @@
+1
+00:00:00,145 --> 00:00:03,250
+Hello, and a very warm welcome to Shah Spectrum.
+
+2
+00:00:03,250 --> 00:00:05,406
+If you're new here, welcome.
+
+3
+00:00:05,406 --> 00:00:09,239
+If you're back again, it's lovely to have you with us once more.
+
+4
+00:00:09,838 --> 00:00:15,389
+A town hall that stood for about a hundred and forty years, one that came through
+
+5
+00:00:15,389 --> 00:00:19,248
+two world wars, burned down in a single evening.
+
+6
+00:00:19,248 --> 00:00:24,788
+That happened in Limoges, in France, and it is only one part of the worst unrest the
+
+7
+00:00:24,788 --> 00:00:25,870
+country has seen in years.
+
+8
+00:00:25,870 --> 00:00:28,627
+So what is going on in France, and where could it go next?
+
+9
+00:00:29,371 --> 00:00:35,244
+I'm Mittal Shah, or rather an AI-generated version of my voice, and I'll be taking
+
+10
+00:00:35,244 --> 00:00:36,676
+you through today's story.
+
+11
+00:00:37,545 --> 00:00:38,354
+First, what happened.
+
+12
+00:00:38,354 --> 00:00:42,815
+It began last month with high-school students in the northern suburbs of Paris.
+
+13
+00:00:42,815 --> 00:00:46,760
+They were angry about teacher shortages and run-down school buildings.
+
+14
+00:00:46,760 --> 00:00:52,525
+Over time, the anger widened to the cost of living and the state of public services.
+
+15
+00:00:52,525 --> 00:00:58,056
+Then, on Saturday the seventeenth of October, it turned violent.
+
+16
+00:00:58,056 --> 00:01:02,927
+The interior ministry says about five lakh and fifty thousand people joined protests
+
+17
+00:01:02,927 --> 00:01:05,829
+across the country, around a lakh of them in Paris.
+
+18
+00:01:06,454 --> 00:01:12,936
+In Limoges, a crowd broke into the town hall in the evening and set it on fire.
+
+19
+00:01:12,936 --> 00:01:15,944
+Its spire collapsed, and the building was largely destroyed.
+
+20
+00:01:15,944 --> 00:01:18,248
+It had been opened in eighteen eighty-three.
+
+21
+00:01:18,248 --> 00:01:24,347
+In Marseille, protesters broke into the city hall and covered it in graffiti.
+
+22
+00:01:24,347 --> 00:01:26,117
+In Lyon, the tourist office was set on fire.
+
+23
+00:01:26,117 --> 00:01:31,219
+Shops were looted in several cities, and more than three thousand were hit.
+
+24
+00:01:31,857 --> 00:01:33,605
+Now, why is this happening?
+
+25
+00:01:33,605 --> 00:01:34,710
+Money.
+
+26
+00:01:34,710 --> 00:01:38,982
+France spends more than it earns, and that gap is called the budget deficit.
+
+27
+00:01:38,982 --> 00:01:44,445
+This year it is about five point four per cent of the country's economic output, one
+
+28
+00:01:44,445 --> 00:01:46,693
+of the highest in the euro zone.
+
+29
+00:01:46,693 --> 00:01:49,189
+The government wants it down to five per cent next year.
+
+30
+00:01:49,189 --> 00:01:55,381
+Its total debt is about a hundred and nineteen per cent of a year's output, a
+
+31
+00:01:55,381 --> 00:01:56,491
+post-war record.
+
+32
+00:01:57,126 --> 00:02:01,619
+To cut the deficit, the government has to pass a budget with spending cuts, and that
+
+33
+00:02:01,619 --> 00:02:04,204
+is exactly what people are angry about.
+
+34
+00:02:04,204 --> 00:02:07,426
+It also leads a minority government.
+
+35
+00:02:07,426 --> 00:02:12,468
+That means it does not have enough votes in parliament on its own, and it can be
+
+36
+00:02:12,468 --> 00:02:15,181
+toppled if it cannot find a compromise.
+
+37
+00:02:15,775 --> 00:02:18,190
+Here is where the markets come in.
+
+38
+00:02:18,190 --> 00:02:22,827
+A government bond is an I-O-U, which simply means, I owe you.
+
+39
+00:02:22,827 --> 00:02:27,068
+Investors lend money to the government, and the government promises to pay it back
+
+40
+00:02:27,068 --> 00:02:27,884
+with interest.
+
+41
+00:02:27,884 --> 00:02:32,695
+When investors feel it is riskier to lend, they ask for more interest, and that rate
+
+42
+00:02:32,695 --> 00:02:34,296
+is called the yield.
+
+43
+00:02:34,296 --> 00:02:39,147
+France's ten-year yield is now close to five per cent, the highest in about
+
+44
+00:02:39,147 --> 00:02:40,103
+twenty-four years.
+
+45
+00:02:40,103 --> 00:02:43,836
+A higher yield means France pays more to borrow.
+
+46
+00:02:44,495 --> 00:02:46,578
+So how is the government responding?
+
+47
+00:02:46,578 --> 00:02:51,496
+The Prime Minister has promised to send in troops to work alongside the police, with
+
+48
+00:02:51,496 --> 00:02:54,216
+a massive deployment planned for this Saturday.
+
+49
+00:02:54,216 --> 00:02:57,224
+He has also admitted failures:
+
+50
+00:02:57,224 --> 00:03:03,726
+poor intelligence, police stretched too thin in fixed positions, and planned police
+
+51
+00:03:03,726 --> 00:03:04,889
+leave that was not cancelled.
+
+52
+00:03:04,889 --> 00:03:06,635
+The interior minister apologised.
+
+53
+00:03:06,635 --> 00:03:10,941
+Curfews for minors are in place in Marseille and Lille.
+
+54
+00:03:10,941 --> 00:03:17,604
+Parliament will set up a commission of inquiry, about two hundred investigators are
+
+55
+00:03:17,604 --> 00:03:22,910
+tracking those involved, and a man suspected of starting the Limoges fire has been
+
+56
+00:03:22,910 --> 00:03:23,565
+arrested.
+
+57
+00:03:23,565 --> 00:03:26,438
+The government has blamed far-left groups.
+
+58
+00:03:26,438 --> 00:03:30,654
+Those groups say the real problem is that living costs and public services were
+
+59
+00:03:30,654 --> 00:03:31,256
+ignored.
+
+60
+00:03:31,731 --> 00:03:32,975
+Will it spread to other countries?
+
+61
+00:03:32,975 --> 00:03:37,163
+Not so far in the same form, but there are signs.
+
+62
+00:03:37,163 --> 00:03:42,681
+Italy has seen riots in Milan and other northern cities, and its defence minister
+
+63
+00:03:42,681 --> 00:03:46,497
+called them hybrid warfare organised through social media.
+
+64
+00:03:46,497 --> 00:03:49,033
+That is his view, not an established fact.
+
+65
+00:03:49,033 --> 00:03:52,904
+Whether this becomes a wider movement, nobody can say yet.
+
+66
+00:03:53,437 --> 00:03:55,136
+The bigger question is politics.
+
+67
+00:03:55,136 --> 00:04:00,456
+France holds a presidential election next year, and candidates on the far right and
+
+68
+00:04:00,456 --> 00:04:02,455
+the hard left are polling strongly.
+
+69
+00:04:02,455 --> 00:04:08,299
+If the government falls over the budget, early parliamentary elections are possible.
+
+70
+00:04:08,299 --> 00:04:13,698
+Unions have called strikes for the fifth of November, and more protests are planned
+
+71
+00:04:13,698 --> 00:04:18,431
+for Saturday, from student unions and from the Yellow Vest groups angry about fuel
+
+72
+00:04:18,431 --> 00:04:19,031
+prices.
+
+73
+00:04:19,467 --> 00:04:20,800
+And what about India?
+
+74
+00:04:20,800 --> 00:04:23,975
+There is no direct effect we can point to today.
+
+75
+00:04:23,975 --> 00:04:28,964
+One thing worth watching is the trade deal between India and the European Union.
+
+76
+00:04:28,964 --> 00:04:34,556
+It is meant to be signed in December, and a distracted French government could make
+
+77
+00:04:34,556 --> 00:04:37,197
+European politics harder to predict.
+
+78
+00:04:37,197 --> 00:04:39,671
+But that is only a possibility.
+
+79
+00:04:40,331 --> 00:04:41,225
+To sum up:
+
+80
+00:04:41,225 --> 00:04:46,388
+a school protest has grown into a test of whether France can fix its budget and keep
+
+81
+00:04:46,388 --> 00:04:49,437
+the peace, and the next few weeks will show which way it goes.
+
+82
+00:04:50,333 --> 00:04:53,244
+Thanks for listening, and see you in the next episode.
+
