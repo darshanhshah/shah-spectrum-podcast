@@ -1,0 +1,288 @@
+1
+00:00:00,124 --> 00:00:02,852
+Hello, and a very warm welcome to Shah Spectrum.
+
+2
+00:00:02,852 --> 00:00:05,977
+If you're new here, welcome.
+
+3
+00:00:05,977 --> 00:00:10,376
+If you're back again, it's lovely to have you with us once more.
+
+4
+00:00:10,938 --> 00:00:15,706
+Four of the biggest technology companies in the world are spending hundreds of
+
+5
+00:00:15,706 --> 00:00:18,246
+billions of dollars this year on one thing:
+
+6
+00:00:18,246 --> 00:00:20,784
+computers for artificial intelligence.
+
+7
+00:00:20,784 --> 00:00:23,356
+Will that money ever come back?
+
+8
+00:00:24,343 --> 00:00:25,857
+Hi, I'm Mittal Shah.
+
+9
+00:00:25,857 --> 00:00:31,034
+This is an A-I-generated version of my voice, and it is narrating today's story.
+
+10
+00:00:32,127 --> 00:00:34,542
+Let's start with what is happening.
+
+11
+00:00:34,542 --> 00:00:40,136
+Microsoft, Alphabet, Amazon and Meta are building huge buildings full of computer
+
+12
+00:00:40,136 --> 00:00:41,523
+chips, called data centres.
+
+13
+00:00:41,523 --> 00:00:47,810
+Alphabet, the parent of Google, now says it will spend between one hundred and
+
+14
+00:00:47,810 --> 00:00:52,202
+ninety-five and two hundred and five billion dollars this year on this.
+
+15
+00:00:52,202 --> 00:00:55,070
+Amazon says about two hundred and twenty billion.
+
+16
+00:00:55,070 --> 00:00:59,987
+Meta says between one hundred and thirty and one hundred and forty-five billion.
+
+17
+00:00:59,987 --> 00:01:04,218
+Spending like this is called capital expenditure, or capex:
+
+18
+00:01:04,218 --> 00:01:09,333
+money spent on things that last for years, like buildings and machines, rather than
+
+19
+00:01:09,333 --> 00:01:10,327
+day to day costs.
+
+20
+00:01:10,970 --> 00:01:11,715
+Why so much?
+
+21
+00:01:11,715 --> 00:01:16,096
+Think of these companies as landlords of computing power.
+
+22
+00:01:16,096 --> 00:01:19,182
+Businesses that want to train or run A-I do not buy their own chips.
+
+23
+00:01:19,182 --> 00:01:24,822
+They rent space on someone else's computers, through what is called the cloud.
+
+24
+00:01:24,822 --> 00:01:28,712
+The more companies rent, the more the landlords must build.
+
+25
+00:01:28,712 --> 00:01:34,000
+Amazon's boss has even pointed to higher memory chip costs as one reason its bill
+
+26
+00:01:34,000 --> 00:01:34,600
+went up.
+
+27
+00:01:35,119 --> 00:01:37,388
+Now here is the part that matters:
+
+28
+00:01:37,388 --> 00:01:38,759
+the rent is coming in.
+
+29
+00:01:38,759 --> 00:01:44,677
+In the April to June quarter, Amazon's cloud business, A-W-S, grew thirty-seven per
+
+30
+00:01:44,677 --> 00:01:48,631
+cent from a year earlier, its fastest in about four and a half years.
+
+31
+00:01:48,631 --> 00:01:51,108
+Google's cloud business grew eighty-two per cent.
+
+32
+00:01:51,108 --> 00:01:55,031
+Microsoft's Azure cloud grew forty-three per cent in its latest quarter.
+
+33
+00:01:55,031 --> 00:01:56,801
+So the spending is not random.
+
+34
+00:01:56,801 --> 00:02:01,889
+The companies say customers are asking for more computing than they can supply.
+
+35
+00:02:02,528 --> 00:02:03,891
+So why the worry?
+
+36
+00:02:03,891 --> 00:02:07,978
+Because spending comes first and earnings come later.
+
+37
+00:02:07,978 --> 00:02:10,794
+Imagine opening a restaurant chain.
+
+38
+00:02:10,794 --> 00:02:15,251
+You build fifty kitchens before you know how many diners will turn up.
+
+39
+00:02:15,251 --> 00:02:16,728
+If diners come, great.
+
+40
+00:02:16,728 --> 00:02:21,123
+If they come more slowly than you planned, you are stuck with the cost of the
+
+41
+00:02:21,123 --> 00:02:21,782
+kitchens.
+
+42
+00:02:21,782 --> 00:02:24,089
+That is the fear in markets.
+
+43
+00:02:24,089 --> 00:02:28,394
+Last week chip company shares fell sharply, and Meta's shares dropped on worries
+
+44
+00:02:28,394 --> 00:02:30,344
+about its A-I spending.
+
+45
+00:02:30,928 --> 00:02:32,706
+One more thing makes this tricky:
+
+46
+00:02:32,706 --> 00:02:34,827
+chips do not last forever.
+
+47
+00:02:34,827 --> 00:02:39,390
+A building can serve for decades, but the computers inside it get old and need
+
+48
+00:02:39,390 --> 00:02:42,344
+replacing within a few years.
+
+49
+00:02:42,344 --> 00:02:46,571
+Companies spread that cost over those years, which means today's spending keeps
+
+50
+00:02:46,571 --> 00:02:49,251
+showing up in their profits for a long time.
+
+51
+00:02:49,251 --> 00:02:51,732
+So the bet is not only that demand grows.
+
+52
+00:02:51,732 --> 00:02:56,468
+It is that demand grows fast enough to pay for machines that will need replacing
+
+53
+00:02:56,468 --> 00:02:57,370
+before long.
+
+54
+00:02:57,971 --> 00:03:00,115
+Here is what would count as paying back.
+
+55
+00:03:00,115 --> 00:03:02,577
+First, cloud growth that keeps up, quarter after quarter.
+
+56
+00:03:02,577 --> 00:03:06,082
+Second, customers paying for A-I tools, not just trying them.
+
+57
+00:03:06,082 --> 00:03:09,805
+Third, the spending levelling off as demand catches up.
+
+58
+00:03:09,805 --> 00:03:11,876
+Any one of these is a good sign.
+
+59
+00:03:11,876 --> 00:03:13,468
+None of them is certain.
+
+60
+00:03:14,052 --> 00:03:16,731
+There is also a limit to what we know.
+
+61
+00:03:16,731 --> 00:03:21,709
+Most of these numbers are what the companies themselves have said, and plans can
+
+62
+00:03:21,709 --> 00:03:22,309
+change.
+
+63
+00:03:22,279 --> 00:03:29,121
+Whether A-I will earn enough to justify this spending is something nobody can say
+
+64
+00:03:29,121 --> 00:03:29,721
+today.
+
+65
+00:03:29,691 --> 00:03:31,940
+That is an open question, not a fact.
+
+66
+00:03:32,505 --> 00:03:37,657
+Microsoft, Alphabet and Amazon report their latest results later this week, and the
+
+67
+00:03:37,657 --> 00:03:41,805
+cloud numbers and any change to their spending plans are the thing to watch.
+
+68
+00:03:42,483 --> 00:03:43,492
+To sum up:
+
+69
+00:03:43,492 --> 00:03:47,680
+the spending is real and the rent is arriving, but whether it pays back is still a
+
+70
+00:03:47,680 --> 00:03:50,418
+test, and this week's results are the next exam.
+
+71
+00:03:51,067 --> 00:03:55,326
+This is news and explanation, not investment advice.
+
+72
+00:03:56,359 --> 00:03:59,424
+Thanks for listening, and see you in the next episode.
+
