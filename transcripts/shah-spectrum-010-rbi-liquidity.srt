@@ -1,0 +1,312 @@
+1
+00:00:00,148 --> 00:00:03,376
+Hello, and a very warm welcome to Shah Spectrum.
+
+2
+00:00:03,376 --> 00:00:05,335
+If you're new here, welcome.
+
+3
+00:00:05,335 --> 00:00:10,902
+If you're back again, it's lovely to have you with us once more.
+
+4
+00:00:11,550 --> 00:00:12,933
+Here is a puzzle:
+
+5
+00:00:12,933 --> 00:00:16,226
+India's central bank is making cash scarce on purpose.
+
+6
+00:00:16,226 --> 00:00:19,884
+In early September, banks had about eleven lakh crore rupees of spare cash.
+
+7
+00:00:19,884 --> 00:00:23,001
+Now they have about forty-six thousand crore.
+
+8
+00:00:23,001 --> 00:00:25,159
+Why would the Reserve Bank want that?
+
+9
+00:00:25,992 --> 00:00:30,921
+Hi, I'm Mittal Shah, and this is my A-I voice, telling you today's story.
+
+10
+00:00:31,652 --> 00:00:33,030
+First, the numbers.
+
+11
+00:00:33,030 --> 00:00:36,567
+The spare cash in the banking system is called liquidity.
+
+12
+00:00:36,567 --> 00:00:43,053
+By one widely used estimate, it fell from about eleven lakh crore rupees in early
+
+13
+00:00:43,053 --> 00:00:47,884
+September to about forty-six thousand crore by the twenty-sixth of October.
+
+14
+00:00:47,884 --> 00:00:51,836
+That is a drop of roughly ninety-six per cent in under two months.
+
+15
+00:00:51,836 --> 00:00:59,160
+And the price of borrowing for one night, the overnight rate, has moved close to the
+
+16
+00:00:59,160 --> 00:01:00,929
+top of the Reserve Bank's range.
+
+17
+00:01:01,445 --> 00:01:03,410
+So how did the Reserve Bank do it?
+
+18
+00:01:03,410 --> 00:01:04,010
+In three steps.
+
+19
+00:01:04,311 --> 00:01:05,320
+Step one, the rate.
+
+20
+00:01:05,320 --> 00:01:11,233
+On the seventh of October it raised its main rate, the repo rate, by a quarter of a
+
+21
+00:01:11,233 --> 00:01:15,824
+percentage point, to five and a half per cent.
+
+22
+00:01:15,824 --> 00:01:19,587
+The repo rate is what the Reserve Bank charges when it lends to banks.
+
+23
+00:01:19,587 --> 00:01:21,766
+It was the first rise in nearly four years.
+
+24
+00:01:22,252 --> 00:01:22,852
+Step two, bonds.
+
+25
+00:01:22,821 --> 00:01:25,397
+It sold government bonds into the market.
+
+26
+00:01:25,397 --> 00:01:29,407
+When a buyer pays for a bond, cash leaves the banking system.
+
+27
+00:01:29,407 --> 00:01:30,506
+So selling bonds drains cash.
+
+28
+00:01:30,987 --> 00:01:31,958
+Step three, a rule.
+
+29
+00:01:31,958 --> 00:01:36,762
+Banks must keep a share of their deposits with the Reserve Bank.
+
+30
+00:01:36,762 --> 00:01:38,206
+This is called the cash reserve ratio.
+
+31
+00:01:38,206 --> 00:01:43,512
+Until recently, on any single day a bank could drop to ninety per cent of the
+
+32
+00:01:43,512 --> 00:01:47,615
+required amount, as long as the fortnight's average was met.
+
+33
+00:01:47,615 --> 00:01:52,429
+From the sixteenth of October, the daily floor is ninety-nine per cent.
+
+34
+00:01:52,429 --> 00:01:55,038
+That leaves banks almost no room to run short.
+
+35
+00:01:55,661 --> 00:01:57,796
+There is one more piece.
+
+36
+00:01:57,796 --> 00:02:03,847
+The Reserve Bank has reportedly capped its own cash lending to banks at one point
+
+37
+00:02:03,847 --> 00:02:05,167
+five lakh crore rupees.
+
+38
+00:02:05,167 --> 00:02:08,429
+On days when banks asked for more, it has not offered more.
+
+39
+00:02:09,073 --> 00:02:09,768
+Now, why?
+
+40
+00:02:09,768 --> 00:02:10,674
+The rupee.
+
+41
+00:02:10,674 --> 00:02:16,430
+It has been weak, at around ninety-five to the dollar, and it came close to a record
+
+42
+00:02:16,430 --> 00:02:17,634
+low earlier this month.
+
+43
+00:02:17,634 --> 00:02:19,560
+Here is how tight cash can help.
+
+44
+00:02:19,560 --> 00:02:21,882
+Think of someone betting that the rupee will fall.
+
+45
+00:02:21,882 --> 00:02:24,565
+They sell rupees and buy dollars.
+
+46
+00:02:24,565 --> 00:02:28,859
+Such a bet is often funded by borrowing rupees for short periods.
+
+47
+00:02:28,859 --> 00:02:34,728
+If overnight money gets dearer, every night of that bet costs more, so it has to pay
+
+48
+00:02:34,728 --> 00:02:35,444
+off faster.
+
+49
+00:02:35,444 --> 00:02:39,069
+That makes betting against the rupee less attractive.
+
+50
+00:02:39,601 --> 00:02:42,759
+One analyst says the tightness looks intentional, for just this reason.
+
+51
+00:02:42,759 --> 00:02:44,873
+The Reserve Bank has not said so.
+
+52
+00:02:44,873 --> 00:02:50,353
+Its Governor said last week that monetary policy can at times be used to address
+
+53
+00:02:50,353 --> 00:02:52,107
+financial stability risks.
+
+54
+00:02:52,686 --> 00:02:55,858
+There is another way to defend a currency:
+
+55
+00:02:55,858 --> 00:02:58,649
+sell dollars from the country's reserves.
+
+56
+00:02:58,649 --> 00:03:01,070
+But reserves are finite.
+
+57
+00:03:01,070 --> 00:03:03,883
+This is an alternative that does not spend them.
+
+58
+00:03:03,883 --> 00:03:08,058
+That is our inference, not something the Reserve Bank has stated.
+
+59
+00:03:08,626 --> 00:03:10,140
+What does it mean for India?
+
+60
+00:03:10,140 --> 00:03:12,306
+Money is getting costlier.
+
+61
+00:03:12,306 --> 00:03:17,565
+Banks are paying about half a percentage point more on fresh short-term certificates
+
+62
+00:03:17,565 --> 00:03:22,644
+of deposit, which are short-term borrowing notes that banks issue, and that is a
+
+63
+00:03:22,644 --> 00:03:23,543
+seven-month high.
+
+64
+00:03:23,543 --> 00:03:28,089
+One likely effect is that loans become costlier over time.
+
+65
+00:03:28,089 --> 00:03:33,329
+On the other side, a steadier rupee helps keep import bills, including oil, in
+
+66
+00:03:33,329 --> 00:03:33,929
+check.
+
+67
+00:03:34,178 --> 00:03:35,443
+So, a quick recap:
+
+68
+00:03:35,443 --> 00:03:40,477
+the Reserve Bank has pulled cash out of the banks, and the rupee is the likely
+
+69
+00:03:40,477 --> 00:03:41,077
+reason.
+
+70
+00:03:41,507 --> 00:03:42,579
+What do we not know?
+
+71
+00:03:42,579 --> 00:03:46,440
+The Reserve Bank has not announced a purpose for the tight cash.
+
+72
+00:03:46,440 --> 00:03:51,438
+The liquidity figure is an estimate, not the Reserve Bank's own number.
+
+73
+00:03:51,438 --> 00:03:53,565
+And the rupee moves every day.
+
+74
+00:03:53,565 --> 00:03:58,593
+The next policy meeting is from the second to the fourth of December.
+
+75
+00:03:59,288 --> 00:04:00,161
+To sum up:
+
+76
+00:04:00,161 --> 00:04:05,401
+the Reserve Bank is defending the rupee by making money scarce, not only by selling
+
+77
+00:04:05,401 --> 00:04:09,949
+dollars, and the price is costlier borrowing at home.
+
+78
+00:04:09,949 --> 00:04:12,636
+Thanks for listening, and see you in the next episode!
+
