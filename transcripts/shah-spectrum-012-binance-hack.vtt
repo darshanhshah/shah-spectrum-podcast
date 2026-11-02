@@ -1,0 +1,245 @@
+WEBVTT
+
+00:00:00.147 --> 00:00:03.752
+{happy}Hello, and a very warm welcome to Shah Spectrum.
+
+00:00:03.752 --> 00:00:05.793
+If you're new here, welcome.
+
+00:00:05.793 --> 00:00:09.996
+If you're back again, it's lovely to have you with us once more.
+
+00:00:10.634 --> 00:00:16.899
+A crypto exchange with hundreds of millions of registered users has just lost six
+
+00:00:16.899 --> 00:00:17.808
+point three billion dollars.
+
+00:00:17.808 --> 00:00:19.628
+Most of it left in about twenty minutes.
+
+00:00:19.628 --> 00:00:21.185
+How does that happen?
+
+00:00:21.185 --> 00:00:23.575
+And who can get any of it back?
+
+00:00:24.219 --> 00:00:28.680
+I'm Mittal Shah, and today I'll take you through the biggest crypto theft ever
+
+00:00:28.680 --> 00:00:29.340
+recorded.
+
+00:00:29.340 --> 00:00:32.981
+{fluent}The exchange is Binance, the largest in the world.
+
+00:00:32.981 --> 00:00:38.453
+Late on Thursday, the twenty-ninth of October, money began leaving its wallets on
+
+00:00:38.453 --> 00:00:40.540
+ten different blockchains at once.
+
+00:00:40.540 --> 00:00:45.215
+Blockchain analysis firms say most of it moved in about twenty minutes.
+
+00:00:45.215 --> 00:00:49.205
+Binance says about three billion dollars has since been frozen.
+
+00:00:49.205 --> 00:00:50.592
+It has not said what happened to the rest.
+
+00:00:50.592 --> 00:00:56.426
+The earlier record was a theft of one and a half billion dollars from another
+
+00:00:56.426 --> 00:00:59.502
+exchange, Bybit, in February last year.
+
+00:00:59.502 --> 00:01:01.553
+This is about four times bigger.
+
+00:01:02.144 --> 00:01:07.128
+Binance says customer money is safe and that it will cover the losses itself.
+
+00:01:07.128 --> 00:01:10.715
+It paused withdrawals, and said it planned to restart them within about two days.
+
+00:01:11.309 --> 00:01:13.895
+Now, how does a theft like this work?
+
+00:01:13.895 --> 00:01:15.695
+Start with the wallets.
+
+00:01:15.695 --> 00:01:20.251
+An exchange keeps most of its coins offline, in what is called cold storage.
+
+00:01:20.251 --> 00:01:25.083
+But it keeps some connected to the internet, so customers can withdraw money any
+
+00:01:25.083 --> 00:01:25.772
+time.
+
+00:01:25.772 --> 00:01:27.839
+That is a hot wallet.
+
+00:01:27.839 --> 00:01:31.462
+Think of the cash drawer at a shop, as opposed to the safe in the back.
+
+00:01:32.005 --> 00:01:38.051
+Every move out of a wallet needs a digital signature, made with a secret key.
+
+00:01:38.051 --> 00:01:42.071
+It works like a signature on a cheque.
+
+00:01:42.071 --> 00:01:43.620
+Here is the key point:
+
+00:01:43.620 --> 00:01:47.132
+the analysts who studied the thefts say that the attacker did not break into one
+
+00:01:47.132 --> 00:01:50.094
+wallet at a time.
+
+00:01:50.094 --> 00:01:54.802
+They think the attacker got control of the system that signs the transactions, so it
+
+00:01:54.802 --> 00:01:59.285
+would sign whatever the attacker asked, one blockchain after another.
+
+00:01:59.285 --> 00:02:02.157
+That is not the same as robbing one drawer.
+
+00:02:02.157 --> 00:02:06.574
+It is closer to getting hold of the machine that signs every cheque.
+
+00:02:06.574 --> 00:02:08.468
+This is the analysts' reading.
+
+00:02:08.468 --> 00:02:11.632
+Binance has not published its own explanation yet.
+
+00:02:11.632 --> 00:02:16.785
+It first said an engineer's laptop may have been hacked, and later said it had found
+
+00:02:16.785 --> 00:02:17.940
+more points of breach.
+
+00:02:18.511 --> 00:02:23.131
+Analysts also say the preparation began at least a day and a half earlier, with
+
+00:02:23.131 --> 00:02:24.896
+small test transfers.
+
+00:02:24.896 --> 00:02:26.178
+So this was planned, not a lucky break.
+
+00:02:26.830 --> 00:02:27.930
+Who did it?
+
+00:02:27.930 --> 00:02:33.165
+Two blockchain analysis firms say, with high confidence, that it was TraderTraitor,
+
+00:02:33.165 --> 00:02:34.960
+a hacking unit linked to North Korea.
+
+00:02:34.960 --> 00:02:40.402
+The same group was blamed by the United States FBI for the Bybit theft.
+
+00:02:40.402 --> 00:02:42.307
+But this is their assessment.
+
+00:02:42.307 --> 00:02:46.103
+Binance has not named anyone, and North Korea routinely denies such attacks.
+
+00:02:46.728 --> 00:02:48.049
+Now, the freezing.
+
+00:02:48.049 --> 00:02:51.122
+This is the part that surprises people.
+
+00:02:51.122 --> 00:02:53.484
+Some of the stolen money was in stablecoins.
+
+00:02:53.484 --> 00:03:00.129
+A stablecoin is a digital coin designed to hold a steady value, because it is pegged
+
+00:03:00.129 --> 00:03:01.262
+to a currency.
+
+00:03:01.262 --> 00:03:06.992
+Most of the big ones are pegged to the dollar, but a stablecoin can be pegged to the
+
+00:03:06.992 --> 00:03:09.483
+euro or any other currency too.
+
+00:03:09.483 --> 00:03:13.221
+The companies that issue them can block particular wallets.
+
+00:03:13.221 --> 00:03:18.341
+Within an hour, Tether and Circle did exactly that, and analysts say the issuers
+
+00:03:18.341 --> 00:03:21.301
+froze around two point seven billion dollars in total.
+
+00:03:21.825 --> 00:03:23.996
+But bitcoin and ether work differently.
+
+00:03:23.996 --> 00:03:25.180
+No company runs them.
+
+00:03:25.180 --> 00:03:26.703
+There is no one to call.
+
+00:03:26.703 --> 00:03:32.245
+Analysts say billions of dollars in those coins are beyond any freeze.
+
+00:03:32.245 --> 00:03:34.258
+And the thief did not sit still:
+
+00:03:34.258 --> 00:03:38.574
+reports say some stolen coins were quickly sold at a discount, to turn them into
+
+00:03:38.574 --> 00:03:41.019
+other assets before they could be frozen.
+
+00:03:41.560 --> 00:03:42.579
+So what comes next?
+
+00:03:42.579 --> 00:03:48.073
+Analysts expect the money to be passed through cross-chain bridges, swap services,
+
+00:03:48.073 --> 00:03:49.299
+and cash-out brokers.
+
+00:03:49.299 --> 00:03:53.468
+Investigators will try to follow it, and more freezes are possible.
+
+00:03:53.468 --> 00:04:00.173
+Binance's own emergency fund is more than six times smaller than the loss, so how it
+
+00:04:00.173 --> 00:04:02.317
+covers the cost is something to watch.
+
+00:04:02.317 --> 00:04:05.533
+So is the explanation of how the attacker got in.
+
+00:04:06.102 --> 00:04:10.455
+We do not know yet how the signing system was compromised, how much will be
+
+00:04:10.455 --> 00:04:15.022
+recovered, or whether the attribution will be confirmed by officials.
+
+00:04:15.022 --> 00:04:16.158
+{happy}To sum up:
+
+00:04:16.158 --> 00:04:21.758
+an exchange can hold the keys to thousands of customers' coins in one place, and
+
+00:04:21.758 --> 00:04:25.144
+when that single point of control is compromised, the loss can be enormous.
+
+00:04:25.144 --> 00:04:31.559
+Some of it can be frozen, but only where a company is in charge of the coin.
+
+00:04:31.559 --> 00:04:34.522
+Thanks for listening, and see you in the next episode!
+
