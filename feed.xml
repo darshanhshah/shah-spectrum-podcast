@@ -25,6 +25,20 @@ Narrated by an AI-generated voice. Made to explain the news, not as investment a
     <itunes:type>episodic</itunes:type>
     <!-- EPISODES: newest first. Add items with scripts/add_episode.py -->
     <item>
+      <title>US midterms: why the result matters for the economy</title>
+      <description>Americans vote in the midterm elections, and the result decides who controls Congress, which holds the powers over government spending, borrowing and tariffs. We explain what is up for election, why divided government raises the risk of gridlock, shutdowns and a debt-limit fight, and what we do not yet know. Sources: Newsquawk (30 Oct 2026); Schwab Asset Management (Aug 2026); Saxo (17 Sep 2026); Covington (27 Feb 2026); DLA Piper (Feb 2026). Election forecasts are as of 30 October and are not results. Explanation only, not investment advice. Narrated by an AI-generated version of Mittal Shah&#x27;s voice.</description>
+      <itunes:summary>Americans vote in the midterm elections, and the result decides who controls Congress, which holds the powers over government spending, borrowing and tariffs. We explain what is up for election, why divided government raises the risk of gridlock, shutdowns and a debt-limit fight, and what we do not yet know. Sources: Newsquawk (30 Oct 2026); Schwab Asset Management (Aug 2026); Saxo (17 Sep 2026); Covington (27 Feb 2026); DLA Piper (Feb 2026). Election forecasts are as of 30 October and are not results. Explanation only, not investment advice. Narrated by an AI-generated version of Mittal Shah&#x27;s voice.</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 08:45:04 +0800</pubDate>
+      <guid isPermaLink="false">shah-spectrum-013-us-midterms.mp3</guid>
+      <enclosure url="https://darshanhshah.github.io/shah-spectrum-podcast/episodes/shah-spectrum-013-us-midterms.mp3" length="3971484" type="audio/mpeg"/>
+      <itunes:duration>248</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://darshanhshah.github.io/shah-spectrum-podcast/transcripts/shah-spectrum-013-us-midterms.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://darshanhshah.github.io/shah-spectrum-podcast/transcripts/shah-spectrum-013-us-midterms.srt" type="application/x-subrip" language="en"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
       <title>The Binance hack: how $6.3 billion left an exchange</title>
       <description>Binance, the world&#x27;s largest crypto exchange, says about 6.3 billion dollars was taken from its wallets on 29 October, most of it in about twenty minutes. We explain how hot wallets and signing keys work, why the theft happened, and why only some of the money could be frozen. Sources: TRM Labs blog (30 Oct 2026); Al Jazeera (30 Oct 2026); RTE (30 Oct 2026). These are secondary reports: Binance has not published a root cause, attribution to North Korea is an assessment by analysts, and withdrawal status may have changed. Explanation only, not investment advice. Narrated by an AI-generated version of Mittal Shah&#x27;s voice.</description>
       <itunes:summary>Binance, the world&#x27;s largest crypto exchange, says about 6.3 billion dollars was taken from its wallets on 29 October, most of it in about twenty minutes. We explain how hot wallets and signing keys work, why the theft happened, and why only some of the money could be frozen. Sources: TRM Labs blog (30 Oct 2026); Al Jazeera (30 Oct 2026); RTE (30 Oct 2026). These are secondary reports: Binance has not published a root cause, attribution to North Korea is an assessment by analysts, and withdrawal status may have changed. Explanation only, not investment advice. Narrated by an AI-generated version of Mittal Shah&#x27;s voice.</itunes:summary>
