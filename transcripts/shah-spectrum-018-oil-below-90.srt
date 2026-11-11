@@ -1,0 +1,264 @@
+1
+00:00:00,173 --> 00:00:04,737
+{happy}Hello, and a very warm welcome to Shah Spectrum.
+
+2
+00:00:04,737 --> 00:00:05,678
+If you're new here, welcome.
+
+3
+00:00:05,678 --> 00:00:11,533
+If you're back again, it's lovely to have you with us once more.
+
+4
+00:00:12,324 --> 00:00:14,872
+Last week, the price of oil fell by about a sixth.
+
+5
+00:00:14,872 --> 00:00:18,963
+One report called it the biggest weekly drop since 2020.
+
+6
+00:00:18,963 --> 00:00:23,360
+So why is petrol at your pump priced exactly as it was in May?
+
+7
+00:00:24,055 --> 00:00:24,995
+Hi, I'm Mittal Shah.
+
+8
+00:00:24,995 --> 00:00:30,686
+Stay with me for a few minutes, and the gap between the headline and the pump will
+
+9
+00:00:30,686 --> 00:00:31,707
+make sense.
+
+10
+00:00:31,707 --> 00:00:33,627
+{fluent}First, what happened.
+
+11
+00:00:33,627 --> 00:00:39,247
+Brent, the global benchmark price for crude oil, dipped below ninety dollars a
+
+12
+00:00:39,247 --> 00:00:42,058
+barrel on Tuesday, the tenth of November.
+
+13
+00:00:42,058 --> 00:00:44,604
+That is the first time since August.
+
+14
+00:00:44,604 --> 00:00:47,995
+It was a dip during trading, not a closing price.
+
+15
+00:00:47,995 --> 00:00:52,018
+And it is nearly a quarter lower than the peak of late October.
+
+16
+00:00:52,898 --> 00:00:54,187
+Why did it fall?
+
+17
+00:00:54,187 --> 00:00:58,325
+Analysts link it to hopes that the fighting with Iran is easing.
+
+18
+00:00:58,325 --> 00:01:03,796
+Reports said President Trump was not planning to attack Iran at this point, and
+
+19
+00:01:03,796 --> 00:01:05,700
+there are hopes of talks mediated by Qatar.
+
+20
+00:01:05,700 --> 00:01:11,359
+Ship traffic through the Strait of Hormuz has also picked up, and one analyst says
+
+21
+00:01:11,359 --> 00:01:15,377
+crude oil flows have almost returned to pre-war levels.
+
+22
+00:01:15,377 --> 00:01:20,650
+That is the narrow channel that carries about a fifth of the world's oil in normal
+
+23
+00:01:20,650 --> 00:01:21,250
+times.
+
+24
+00:01:21,152 --> 00:01:23,412
+Oil is priced on expectation.
+
+25
+00:01:23,412 --> 00:01:27,254
+If buyers expect more oil tomorrow, they pay less today.
+
+26
+00:01:28,226 --> 00:01:29,580
+Now to the pump.
+
+27
+00:01:29,580 --> 00:01:35,219
+In India, petrol and diesel prices are set by the fuel retailers, the oil marketing
+
+28
+00:01:35,219 --> 00:01:38,267
+companies, and they do not follow oil day by day.
+
+29
+00:01:38,267 --> 00:01:43,315
+They raised prices four times in May, and have not changed them since.
+
+30
+00:01:43,315 --> 00:01:46,220
+No company has announced a change this week.
+
+31
+00:01:46,956 --> 00:01:47,850
+Why not cut now?
+
+32
+00:01:47,850 --> 00:01:48,968
+Look at what they paid.
+
+33
+00:01:48,968 --> 00:01:54,886
+The Indian basket, which is the mix of crude India actually buys, averaged nearly
+
+34
+00:01:54,886 --> 00:01:58,736
+one hundred and twenty dollars a barrel in October.
+
+35
+00:01:58,736 --> 00:02:03,066
+In the first days of November it was still above one hundred.
+
+36
+00:02:03,066 --> 00:02:08,857
+So the retailers have been losing money on fuel sales, and reports say those losses
+
+37
+00:02:08,857 --> 00:02:09,901
+are now easing.
+
+38
+00:02:10,678 --> 00:02:13,832
+Here is why India feels this more than most.
+
+39
+00:02:13,832 --> 00:02:20,219
+It imports about eighty-eight per cent of its crude, close to nine of every ten
+
+40
+00:02:20,219 --> 00:02:20,819
+barrels.
+
+41
+00:02:20,744 --> 00:02:23,636
+One report gives a rule of thumb.
+
+42
+00:02:23,636 --> 00:02:29,944
+Every ten dollars off the price of crude cuts the country's current account deficit
+
+43
+00:02:29,944 --> 00:02:32,476
+by about fifteen billion dollars a year.
+
+44
+00:02:32,476 --> 00:02:37,769
+The current account deficit is the difference between what a country pays the rest
+
+45
+00:02:37,769 --> 00:02:39,642
+of the world and what it earns from it.
+
+46
+00:02:39,642 --> 00:02:43,238
+A smaller deficit eases pressure on the rupee.
+
+47
+00:02:43,238 --> 00:02:48,457
+That is a likely effect, not a promise, and it depends on the price staying down.
+
+48
+00:02:49,333 --> 00:02:50,886
+What do we not know?
+
+49
+00:02:50,886 --> 00:02:53,617
+Talks are hoped for, not agreed.
+
+50
+00:02:53,617 --> 00:02:59,383
+Houthi attacks on Saudi energy sites are continuing, and liquefied natural gas and
+
+51
+00:02:59,383 --> 00:03:01,575
+refined fuels are still constrained.
+
+52
+00:03:01,575 --> 00:03:07,700
+Different reports give slightly different prices for the same day, because the
+
+53
+00:03:07,700 --> 00:03:09,326
+market moves by the hour.
+
+54
+00:03:09,326 --> 00:03:13,115
+So treat ninety dollars as a moment, not a new level.
+
+55
+00:03:14,211 --> 00:03:15,641
+To sum up:
+
+56
+00:03:15,641 --> 00:03:17,007
+oil has fallen fast on hope, not on a deal.
+
+57
+00:03:17,007 --> 00:03:23,507
+India's pump prices have not moved, and the retailers are still recovering what
+
+58
+00:03:23,507 --> 00:03:24,347
+crude cost them.
+
+59
+00:03:24,347 --> 00:03:27,709
+And the benefit to India is real only if the fall lasts.
+
+60
+00:03:28,464 --> 00:03:31,512
+Before you go, here is earlier background.
+
+61
+00:03:31,512 --> 00:03:37,356
+On the twenty-ninth of October, our episode 'Hormuz and oil:
+
+62
+00:03:37,356 --> 00:03:39,685
+what it means for India' explained why the strait matters.
+
+63
+00:03:39,685 --> 00:03:43,863
+And on the fifth of November, 'US midterms aftermath:
+
+64
+00:03:43,863 --> 00:03:49,097
+oil, shares and India' looked at oil, shares and the rupee after the vote.
+
+65
+00:03:49,097 --> 00:03:51,449
+The links are in the description.
+
+66
+00:03:51,449 --> 00:03:55,102
+{happy}Thanks for listening, and see you in the next episode!
+
