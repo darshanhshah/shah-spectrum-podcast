@@ -1,0 +1,300 @@
+1
+00:00:00,127 --> 00:00:03,259
+{happy}Hello, and a very warm welcome to Shah Spectrum.
+
+2
+00:00:03,259 --> 00:00:05,277
+If you're new here, welcome.
+
+3
+00:00:05,277 --> 00:00:10,104
+If you're back again, it's lovely to have you with us once more.
+
+4
+00:00:10,942 --> 00:00:13,629
+Here is a number worth remembering:
+
+5
+00:00:13,629 --> 00:00:14,467
+five per cent.
+
+6
+00:00:14,467 --> 00:00:19,285
+That is roughly what the United States government has recently been paying to borrow
+
+7
+00:00:19,285 --> 00:00:21,315
+money for ten years.
+
+8
+00:00:21,315 --> 00:00:23,058
+And it is not only America:
+
+9
+00:00:23,058 --> 00:00:24,314
+Japan is paying more too.
+
+10
+00:00:24,314 --> 00:00:24,928
+Why?
+
+11
+00:00:26,346 --> 00:00:30,569
+I'm Mittal Shah, and in the next few minutes I'll make the bond market feel a lot
+
+12
+00:00:30,569 --> 00:00:32,856
+less mysterious.
+
+13
+00:00:32,856 --> 00:00:34,550
+{fluent}Let's start with what happened.
+
+14
+00:00:34,550 --> 00:00:39,532
+On the tenth of November, the United States reported its inflation figures for
+
+15
+00:00:39,532 --> 00:00:40,817
+October, and they were hot.
+
+16
+00:00:40,817 --> 00:00:46,244
+On the same day, the yield on the ten-year government bond jumped by about a tenth
+
+17
+00:00:46,244 --> 00:00:50,866
+of a percentage point, to about five per cent, according to market reports.
+
+18
+00:00:51,587 --> 00:00:53,080
+Now, a quick word on that yield.
+
+19
+00:00:53,080 --> 00:00:57,642
+A government bond is simply an I-O-U:
+
+20
+00:00:57,642 --> 00:01:02,933
+you lend the government money today, and it promises to pay you interest and give
+
+21
+00:01:02,933 --> 00:01:04,240
+your money back later.
+
+22
+00:01:04,240 --> 00:01:07,948
+The yield is the interest a buyer earns on that bond, given the price they pay.
+
+23
+00:01:07,948 --> 00:01:10,587
+So when you hear "yields rose", read it as:
+
+24
+00:01:10,587 --> 00:01:15,892
+lending to the government now pays lenders more, and costs the government more.
+
+25
+00:01:16,770 --> 00:01:18,762
+So why do yields move at all?
+
+26
+00:01:18,762 --> 00:01:20,025
+Think of it as a seesaw.
+
+27
+00:01:20,025 --> 00:01:23,635
+Imagine an old bond that pays four dollars a year on a hundred dollars.
+
+28
+00:01:23,635 --> 00:01:26,585
+Then new bonds start paying five dollars a year.
+
+29
+00:01:26,585 --> 00:01:30,036
+Few buyers will pay a hundred dollars for the old one.
+
+30
+00:01:30,036 --> 00:01:35,804
+Its price falls to roughly eighty dollars, until four dollars a year is a five per
+
+31
+00:01:35,804 --> 00:01:37,289
+cent yield for the new buyer.
+
+32
+00:01:37,289 --> 00:01:38,121
+Price down, yield up.
+
+33
+00:01:38,761 --> 00:01:40,615
+And that brings us to why yields went up.
+
+34
+00:01:40,615 --> 00:01:42,882
+One likely reason is inflation.
+
+35
+00:01:42,882 --> 00:01:49,114
+If prices are rising faster, a lender wants more interest, because the money they
+
+36
+00:01:49,114 --> 00:01:50,069
+get back will buy less.
+
+37
+00:01:50,069 --> 00:01:54,576
+The Fed, the United States central bank, has a short-term interest rate of about
+
+38
+00:01:54,576 --> 00:01:56,097
+three point nine per cent.
+
+39
+00:01:56,097 --> 00:02:01,421
+A ten-year yield at five per cent suggests that lenders want a good deal more than
+
+40
+00:02:01,421 --> 00:02:04,303
+that for locking their money away for a decade.
+
+41
+00:02:04,303 --> 00:02:08,482
+That reading is our inference, not something anyone has announced.
+
+42
+00:02:09,261 --> 00:02:11,857
+Here is where the story gets bigger.
+
+43
+00:02:11,857 --> 00:02:14,688
+This is not only an American story.
+
+44
+00:02:14,688 --> 00:02:18,534
+In Japan, yields have been far lower than in America.
+
+45
+00:02:18,534 --> 00:02:24,268
+On the fifth of November, Japan sold ten-year bonds at an average yield of about two
+
+46
+00:02:24,268 --> 00:02:25,212
+point eight per cent.
+
+47
+00:02:25,212 --> 00:02:30,309
+And in July, that yield briefly touched about two point nine, the highest since
+
+48
+00:02:30,309 --> 00:02:32,668
+November nineteen ninety-six.
+
+49
+00:02:32,668 --> 00:02:38,001
+Reports at the time pointed to higher oil prices, bigger government spending plans,
+
+50
+00:02:38,001 --> 00:02:41,284
+and doubts about when the Bank of Japan would raise its own rates.
+
+51
+00:02:42,087 --> 00:02:45,232
+So why do these markets move together?
+
+52
+00:02:45,232 --> 00:02:49,000
+Because big borrowers compete for the same pool of money.
+
+53
+00:02:49,000 --> 00:02:55,181
+If lenders can earn five per cent in America, then other governments and companies
+
+54
+00:02:55,181 --> 00:02:57,316
+have to offer more to keep their buyers.
+
+55
+00:02:57,316 --> 00:02:59,718
+That is a reasonable reading, though not a rule.
+
+56
+00:02:59,718 --> 00:03:01,636
+And there is a cost:
+
+57
+00:03:01,636 --> 00:03:06,569
+the more a government pays in interest, the less room it has for other spending, and
+
+58
+00:03:06,569 --> 00:03:11,766
+loans for companies and families are usually priced off these same yields.
+
+59
+00:03:12,599 --> 00:03:14,253
+What could this mean for India?
+
+60
+00:03:14,253 --> 00:03:15,365
+Possibly this:
+
+61
+00:03:15,365 --> 00:03:21,130
+when lending to the American government pays this much, some global money might
+
+62
+00:03:21,130 --> 00:03:25,215
+prefer that safe return to riskier markets, including the rupee and Indian shares.
+
+63
+00:03:25,215 --> 00:03:28,118
+We want to be careful here.
+
+64
+00:03:28,118 --> 00:03:32,804
+That is a possibility, not something we have measured today.
+
+65
+00:03:33,618 --> 00:03:35,072
+Now, what do we not know?
+
+66
+00:03:35,072 --> 00:03:39,331
+These numbers are from the ninth and tenth of November, and yields change every day.
+
+67
+00:03:39,331 --> 00:03:42,594
+One hot inflation report does not make a trend.
+
+68
+00:03:42,594 --> 00:03:47,327
+We do not know whether inflation will keep running hot, or what central banks will
+
+69
+00:03:47,327 --> 00:03:47,927
+do next.
+
+70
+00:03:47,858 --> 00:03:49,981
+Those are the things to watch.
+
+71
+00:03:50,918 --> 00:03:51,793
+To sum up:
+
+72
+00:03:51,793 --> 00:03:53,127
+a yield is the price of money.
+
+73
+00:03:53,127 --> 00:03:59,584
+In the biggest economies, that price has gone up, and when the price of money rises
+
+74
+00:03:59,584 --> 00:04:03,696
+in the biggest economies, it rarely stays at home.
+
+75
+00:04:03,696 --> 00:04:06,982
+{happy}Thanks for listening, and see you in the next episode!
+
