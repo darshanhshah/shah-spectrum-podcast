@@ -1,0 +1,296 @@
+1
+00:00:00,127 --> 00:00:02,472
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,472 --> 00:00:05,522
+If you're new here, welcome.
+
+3
+00:00:05,522 --> 00:00:08,807
+If you're back again, it's lovely to have you with us.
+
+4
+00:00:09,577 --> 00:00:15,358
+Days after its chief executive resigned, Nvidia, the AI chip maker, has to report
+
+5
+00:00:15,358 --> 00:00:15,962
+its results.
+
+6
+00:00:15,962 --> 00:00:20,051
+What does a company do on a day like that, and what should we listen for?
+
+7
+00:00:20,881 --> 00:00:26,369
+I'm Mittal Shah, and I'll take you through what changed, what results day is really
+
+8
+00:00:26,369 --> 00:00:28,230
+about, and what nobody knows yet.
+
+9
+00:00:28,230 --> 00:00:34,116
+{fluent}On the eleventh of November, the board of Nvidia accepted the resignation of
+
+10
+00:00:34,116 --> 00:00:39,321
+Jensen Huang as chief executive, president and board member, effective immediately.
+
+11
+00:00:39,321 --> 00:00:41,565
+The company announced it the next day.
+
+12
+00:00:41,565 --> 00:00:42,983
+It gave no reason.
+
+13
+00:00:43,774 --> 00:00:48,294
+Colette Kress, Nvidia's chief financial officer since 2013, is now interim chief
+
+14
+00:00:48,294 --> 00:00:53,716
+executive, and she keeps her role as chief financial officer too.
+
+15
+00:00:53,716 --> 00:00:55,525
+Interim means temporary:
+
+16
+00:00:55,525 --> 00:01:00,366
+she leads while the board searches for a permanent chief executive, looking at
+
+17
+00:01:00,366 --> 00:01:03,840
+candidates from inside and outside the company.
+
+18
+00:01:03,840 --> 00:01:08,688
+Harvey Jones, a director since 1993, becomes the board's first-ever chair, the
+
+19
+00:01:08,688 --> 00:01:10,863
+person who runs its meetings.
+
+20
+00:01:10,863 --> 00:01:14,662
+He says the board expects operations, customer commitments and the product roadmap
+
+21
+00:01:14,662 --> 00:01:17,796
+to continue without interruption.
+
+22
+00:01:18,768 --> 00:01:24,056
+Separately, on the eighth of November, the board announced an independent
+
+23
+00:01:24,056 --> 00:01:27,818
+investigation, after press reports that Huang had been the target of a foreign
+
+24
+00:01:27,818 --> 00:01:29,055
+intelligence effort.
+
+25
+00:01:29,055 --> 00:01:31,129
+Those reports are unproven.
+
+26
+00:01:31,129 --> 00:01:36,983
+The board said it had no reason to believe national security or company secrets were
+
+27
+00:01:36,983 --> 00:01:38,339
+compromised.
+
+28
+00:01:38,339 --> 00:01:44,310
+Two days later, the independent directors said they had retained a former senior
+
+29
+00:01:44,310 --> 00:01:49,266
+federal prosecutor in New York, Joon Kim, and his law firm as outside lawyers.
+
+30
+00:01:49,266 --> 00:01:54,375
+The announcement of the resignation does not mention the investigation, and no
+
+31
+00:01:54,375 --> 00:01:56,323
+findings have been published.
+
+32
+00:01:57,100 --> 00:01:57,934
+Now, results day.
+
+33
+00:01:57,934 --> 00:02:02,981
+A company whose shares trade on a stock exchange must report its results every three
+
+34
+00:02:02,981 --> 00:02:04,374
+months:
+
+35
+00:02:04,374 --> 00:02:07,485
+how much it sold, which is its revenue, and how much it earned.
+
+36
+00:02:07,485 --> 00:02:11,347
+Nvidia's quarter ended on the twenty-fifth of October.
+
+37
+00:02:11,347 --> 00:02:16,850
+It reports on the seventeenth of November, at about twenty past one in the afternoon
+
+38
+00:02:16,850 --> 00:02:18,177
+in California.
+
+39
+00:02:18,177 --> 00:02:22,504
+In India, that is around ten to three on the morning of the eighteenth.
+
+40
+00:02:23,278 --> 00:02:24,875
+Here is the baseline.
+
+41
+00:02:24,875 --> 00:02:30,900
+In the quarter before, Nvidia reported revenue of ninety-six point two billion
+
+42
+00:02:30,900 --> 00:02:34,293
+dollars, up one hundred and six per cent from a year earlier.
+
+43
+00:02:34,293 --> 00:02:39,358
+Its data centre business, the part that sells to the companies building AI data
+
+44
+00:02:39,358 --> 00:02:42,152
+centres, brought in eighty-nine billion of that.
+
+45
+00:02:42,152 --> 00:02:44,779
+That is more than nine-tenths of the total.
+
+46
+00:02:45,546 --> 00:02:50,449
+Nvidia also gave a forecast for the quarter that ended on the twenty-fifth of
+
+47
+00:02:50,449 --> 00:02:51,089
+October.
+
+48
+00:02:51,089 --> 00:02:56,607
+It said revenue would be about one hundred and eight billion dollars, give or take
+
+49
+00:02:56,607 --> 00:02:57,288
+two per cent.
+
+50
+00:02:57,288 --> 00:03:02,567
+That is a range of roughly one hundred and six to one hundred and ten billion.
+
+51
+00:03:02,567 --> 00:03:08,437
+It also said the forecast assumes no revenue from data centre computing products in
+
+52
+00:03:08,437 --> 00:03:09,037
+China.
+
+53
+00:03:09,665 --> 00:03:15,042
+So results day will show whether revenue came inside the company's own range, and
+
+54
+00:03:15,042 --> 00:03:17,697
+what the company says about the next quarter.
+
+55
+00:03:18,483 --> 00:03:20,475
+One fact is already settled.
+
+56
+00:03:20,475 --> 00:03:26,294
+The quarter ended before the resignation, so the results cover a quarter from before
+
+57
+00:03:26,294 --> 00:03:27,069
+the change.
+
+58
+00:03:27,069 --> 00:03:28,697
+Open questions remain:
+
+59
+00:03:28,697 --> 00:03:33,606
+who becomes the permanent chief executive, and how long that takes.
+
+60
+00:03:34,284 --> 00:03:34,985
+What do we not know?
+
+61
+00:03:34,985 --> 00:03:35,685
+Why Huang resigned.
+
+62
+00:03:35,685 --> 00:03:37,742
+How long the search will run.
+
+63
+00:03:37,742 --> 00:03:40,101
+What the investigation will find.
+
+64
+00:03:40,101 --> 00:03:43,033
+And, until the results are out, how the quarter went.
+
+65
+00:03:43,732 --> 00:03:44,368
+To sum up:
+
+66
+00:03:44,368 --> 00:03:46,679
+Nvidia reports under interim leadership.
+
+67
+00:03:46,679 --> 00:03:49,952
+Results day covers a quarter that ended before the change.
+
+68
+00:03:49,952 --> 00:03:54,016
+What the change means for the company is still an open question.
+
+69
+00:03:54,841 --> 00:03:58,132
+Nvidia is a listed company, so a quick note:
+
+70
+00:03:58,132 --> 00:04:01,713
+this is news and explanation, not investment advice.
+
+71
+00:04:01,713 --> 00:04:07,725
+Before you go, our episode from the sixth of November, 'AI shares sell-off:
+
+72
+00:04:07,725 --> 00:04:12,084
+data centres and the election', looks at an earlier chapter of the AI story.
+
+73
+00:04:12,084 --> 00:04:14,269
+The link is in the description.
+
+74
+00:04:14,269 --> 00:04:17,674
+{happy}Thanks for listening, and see you in the next episode!
+
