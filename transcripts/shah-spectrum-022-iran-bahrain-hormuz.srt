@@ -1,0 +1,292 @@
+1
+00:00:00,125 --> 00:00:02,514
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,514 --> 00:00:04,392
+If you're new here, welcome.
+
+3
+00:00:04,392 --> 00:00:08,365
+If you're back again, it's lovely to have you with us.
+
+4
+00:00:08,365 --> 00:00:15,360
+{happy}Over one weekend, Iran said it fired drones at a base in Bahrain, and that
+
+5
+00:00:15,360 --> 00:00:17,606
+tankers had hit mines near the Strait of Hormuz.
+
+6
+00:00:17,606 --> 00:00:21,065
+So what is actually confirmed, and what is only a claim?
+
+7
+00:00:21,065 --> 00:00:23,136
+{happy}Hi, I'm Mittal Shah.
+
+8
+00:00:23,136 --> 00:00:26,475
+Stay with me for a few minutes, and we'll separate the two.
+
+9
+00:00:26,475 --> 00:00:28,311
+{fluent}First, Bahrain.
+
+10
+00:00:28,311 --> 00:00:34,113
+On the fifteenth of November, Iran's Revolutionary Guard, its elite armed force,
+
+11
+00:00:34,113 --> 00:00:39,558
+said six drones hit a United States radar at a base in al-Riffa, in Bahrain.
+
+12
+00:00:39,558 --> 00:00:45,870
+Bahrain's defence force said it had intercepted multiple Iranian aerial attacks.
+
+13
+00:00:45,870 --> 00:00:50,939
+Two days earlier, on the thirteenth, the United States military's Central Command
+
+14
+00:00:50,939 --> 00:00:54,918
+had called a similar Iranian claim about a Bahrain radar false:
+
+15
+00:00:54,918 --> 00:00:58,085
+two drones were shot down, with no damage.
+
+16
+00:00:58,085 --> 00:00:59,943
+So the pattern so far:
+
+17
+00:00:59,943 --> 00:01:04,728
+Iran says it hit something, and the other side says it stopped the attacks.
+
+18
+00:01:05,567 --> 00:01:06,436
+Now, the sea.
+
+19
+00:01:06,436 --> 00:01:12,492
+Iran's Revolutionary Guard said two oil tankers struck mines on a southern route
+
+20
+00:01:12,492 --> 00:01:13,963
+that Iran had not authorised.
+
+21
+00:01:13,963 --> 00:01:18,829
+One, it said, was a supertanker carrying more than two million barrels of oil, and
+
+22
+00:01:18,829 --> 00:01:19,429
+it sank.
+
+23
+00:01:19,321 --> 00:01:24,234
+Iran's navy separately said a tanker caught fire east of the strait.
+
+24
+00:01:24,234 --> 00:01:30,450
+State television spoke of five vessels within forty-eight hours, and another account
+
+25
+00:01:30,450 --> 00:01:31,050
+said three.
+
+26
+00:01:30,941 --> 00:01:32,317
+That is the problem.
+
+27
+00:01:32,317 --> 00:01:36,643
+The counts differ, and none of the reports we read gave ship names.
+
+28
+00:01:36,643 --> 00:01:42,552
+A British maritime monitor said the damage was unknown and the crew were safe.
+
+29
+00:01:42,552 --> 00:01:48,531
+It was also aware of an Indian shipping report of a tanker attack in the Gulf, but
+
+30
+00:01:48,531 --> 00:01:50,631
+could not say whether it was the same incident.
+
+31
+00:01:51,400 --> 00:01:53,969
+Why does a mine matter so much?
+
+32
+00:01:53,969 --> 00:02:00,117
+In general, a sea mine is a cheap explosive that sits in the water and goes off when
+
+33
+00:02:00,117 --> 00:02:01,404
+a ship touches it.
+
+34
+00:02:01,404 --> 00:02:04,252
+Even a few mines, or the fear of them, can slow shipping.
+
+35
+00:02:04,252 --> 00:02:09,993
+In general, insurers then charge more, and captains choose other routes or wait.
+
+36
+00:02:09,993 --> 00:02:14,785
+The Strait of Hormuz is the narrow channel that carries about a fifth of the world's
+
+37
+00:02:14,785 --> 00:02:18,504
+oil in normal times, so worry there is felt far away.
+
+38
+00:02:19,289 --> 00:02:23,168
+The United States tells a different story about the sea.
+
+39
+00:02:23,168 --> 00:02:27,959
+It says it has helped Gulf countries export one and a half billion barrels through
+
+40
+00:02:27,959 --> 00:02:32,819
+the strait since the summer, and that the main routes have been cleared of mines.
+
+41
+00:02:32,819 --> 00:02:37,451
+These are different claims, and we cannot yet say how they fit together.
+
+42
+00:02:38,236 --> 00:02:39,149
+Now the numbers.
+
+43
+00:02:39,149 --> 00:02:45,103
+The International Energy Agency, the group that tracks global energy, said in its
+
+44
+00:02:45,103 --> 00:02:49,677
+November report that Gulf oil exports, not counting Oman, were eighteen point four
+
+45
+00:02:49,677 --> 00:02:51,630
+million barrels a day.
+
+46
+00:02:51,630 --> 00:02:55,927
+That is twenty-six per cent below the level before the war.
+
+47
+00:02:55,927 --> 00:03:00,885
+Yet it also said that, in October, world oil supply was higher than demand for the
+
+48
+00:03:00,885 --> 00:03:02,860
+first time since the war began.
+
+49
+00:03:02,860 --> 00:03:07,006
+And on the thirteenth, Brent, the global benchmark price for oil, was about
+
+50
+00:03:07,006 --> 00:03:08,981
+ninety-six dollars a barrel.
+
+51
+00:03:09,865 --> 00:03:11,336
+What do we not know?
+
+52
+00:03:11,336 --> 00:03:16,428
+Whether any ship was really sunk, since those claims come only from Iran.
+
+53
+00:03:16,428 --> 00:03:17,652
+How many were hit.
+
+54
+00:03:17,652 --> 00:03:19,245
+And where talks stand.
+
+55
+00:03:19,245 --> 00:03:25,198
+Iran's foreign ministry has ruled out limiting its uranium enrichment as a basis for
+
+56
+00:03:25,198 --> 00:03:25,798
+a deal.
+
+57
+00:03:25,656 --> 00:03:30,038
+The American president has said, "we don't need a deal with Iran." A news agency
+
+58
+00:03:30,038 --> 00:03:35,636
+reported that he is weighing whether to hold off on strikes unless there is a new
+
+59
+00:03:35,636 --> 00:03:36,610
+provocation.
+
+60
+00:03:37,469 --> 00:03:38,314
+To sum up:
+
+61
+00:03:38,314 --> 00:03:41,022
+the facts are thin and the claims are loud.
+
+62
+00:03:41,022 --> 00:03:44,409
+Iran says it attacked Bahrain and mined ships.
+
+63
+00:03:44,409 --> 00:03:49,654
+Bahrain says it intercepted attacks, and the United States military says the main
+
+64
+00:03:49,654 --> 00:03:51,654
+sea routes are clear.
+
+65
+00:03:51,654 --> 00:03:56,526
+What we can say is that the risk around Hormuz is back in the headlines.
+
+66
+00:03:56,526 --> 00:03:59,563
+Oil prices are one measure of that risk.
+
+67
+00:04:00,322 --> 00:04:03,913
+Before you go, we have covered this story before.
+
+68
+00:04:03,913 --> 00:04:08,108
+On the twenty-ninth of October, our episode 'Hormuz and oil:
+
+69
+00:04:08,108 --> 00:04:12,003
+what it means for India' explained why the strait matters.
+
+70
+00:04:12,003 --> 00:04:16,187
+And on the eleventh of November, 'Oil below ninety dollars:
+
+71
+00:04:16,187 --> 00:04:20,361
+what a falling barrel means for India' looked at how the price fell.
+
+72
+00:04:20,361 --> 00:04:22,481
+The links are in the description.
+
+73
+00:04:22,481 --> 00:04:25,702
+{happy}Thanks for listening, and see you in the next episode!
+
