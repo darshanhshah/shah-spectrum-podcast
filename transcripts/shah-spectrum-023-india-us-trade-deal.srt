@@ -1,0 +1,288 @@
+1
+00:00:00,123 --> 00:00:02,467
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,467 --> 00:00:04,419
+If you're new here, welcome.
+
+3
+00:00:04,419 --> 00:00:08,455
+If you're back again, it's lovely to have you with us.
+
+4
+00:00:08,455 --> 00:00:13,704
+{happy}In February, India and the United States announced a trade deal.
+
+5
+00:00:13,704 --> 00:00:16,810
+More than nine months later, it still isn't signed.
+
+6
+00:00:16,810 --> 00:00:22,252
+So what duty do Indian goods face in America right now, and what is the deal still
+
+7
+00:00:22,252 --> 00:00:22,953
+waiting for?
+
+8
+00:00:22,953 --> 00:00:25,355
+{happy}Hi, I'm Mittal Shah.
+
+9
+00:00:25,355 --> 00:00:27,083
+Let's walk through it, step by step.
+
+10
+00:00:27,083 --> 00:00:28,635
+{fluent}First, what was announced.
+
+11
+00:00:28,635 --> 00:00:33,099
+On the sixth of February, the two governments issued a joint statement.
+
+12
+00:00:33,099 --> 00:00:38,094
+The United States said it would cut its tariff on Indian goods to eighteen per cent.
+
+13
+00:00:38,094 --> 00:00:43,363
+A tariff, also called a duty, is simply a tax a country charges on imported goods.
+
+14
+00:00:43,363 --> 00:00:50,010
+In return, India said it intended to buy five hundred billion dollars of American
+
+15
+00:00:50,010 --> 00:00:51,221
+goods over five years.
+
+16
+00:00:51,221 --> 00:00:56,063
+It also said it would lower its own duties on many American industrial and farm
+
+17
+00:00:56,063 --> 00:00:56,726
+products.
+
+18
+00:00:57,154 --> 00:00:58,193
+Now, here is the twist.
+
+19
+00:00:58,193 --> 00:01:02,928
+As far as we could find, that eighteen per cent was never put in place.
+
+20
+00:01:02,928 --> 00:01:09,526
+Two weeks later, on the twentieth of February, the United States Supreme Court ruled
+
+21
+00:01:09,526 --> 00:01:10,371
+by six votes to three.
+
+22
+00:01:10,371 --> 00:01:16,254
+It said the emergency law behind these tariffs does not allow a president to impose
+
+23
+00:01:16,254 --> 00:01:16,854
+them.
+
+24
+00:01:16,782 --> 00:01:18,715
+So what do Indian goods face today?
+
+25
+00:01:18,715 --> 00:01:25,338
+After the ruling, the United States used a different law to charge a temporary ten
+
+26
+00:01:25,338 --> 00:01:26,322
+per cent on imports.
+
+27
+00:01:26,322 --> 00:01:28,684
+That ran for about five months and then ended.
+
+28
+00:01:28,684 --> 00:01:33,154
+On the twenty-fourth of July, a new ten per cent duty began.
+
+29
+00:01:33,154 --> 00:01:39,245
+It sits under a trade law called Section three-oh-one, after an investigation into
+
+30
+00:01:39,245 --> 00:01:40,225
+forced labour.
+
+31
+00:01:40,225 --> 00:01:44,393
+The United States had proposed twelve and a half per cent.
+
+32
+00:01:44,393 --> 00:01:45,212
+India got ten.
+
+33
+00:01:45,578 --> 00:01:47,889
+Now, here is the detail that matters:
+
+34
+00:01:47,889 --> 00:01:51,159
+that ten per cent is added on top of the normal duty.
+
+35
+00:01:51,159 --> 00:01:56,914
+For example, a shirt that carried a five per cent duty would now face fifteen per
+
+36
+00:01:56,914 --> 00:01:57,902
+cent in total.
+
+37
+00:01:57,902 --> 00:02:00,155
+But it does not hit everything.
+
+38
+00:02:00,155 --> 00:02:05,310
+Generic medicines and smartphones are exempt, and the Indian government says roughly
+
+39
+00:02:05,310 --> 00:02:11,797
+forty-five per cent of India's exports to the United States sit outside the new
+
+40
+00:02:11,797 --> 00:02:12,397
+duty.
+
+41
+00:02:12,088 --> 00:02:16,200
+So the new duty is an extra ten per cent, with exemptions.
+
+42
+00:02:16,537 --> 00:02:17,957
+As that shows, India is not the worst off.
+
+43
+00:02:17,957 --> 00:02:19,666
+So why does it still want a deal?
+
+44
+00:02:19,666 --> 00:02:25,427
+Because it wants a lower duty than rivals who have no deal.
+
+45
+00:02:25,427 --> 00:02:30,957
+Indian government sources say the United States has assured India of that advantage,
+
+46
+00:02:30,957 --> 00:02:36,958
+but only after a second Section three-oh-one investigation, into factory
+
+47
+00:02:36,958 --> 00:02:37,910
+overcapacity, is finished.
+
+48
+00:02:37,910 --> 00:02:41,454
+That assurance is reported by the Indian side.
+
+49
+00:02:41,454 --> 00:02:44,762
+We have not seen the United States confirm it.
+
+50
+00:02:45,273 --> 00:02:47,861
+Now, what is holding things up?
+
+51
+00:02:47,861 --> 00:02:52,926
+Reports say the two sides still differ on tariffs, and on access to India's farm and
+
+52
+00:02:52,926 --> 00:02:53,834
+dairy markets.
+
+53
+00:02:53,834 --> 00:02:59,295
+A two-member American team visited New Delhi on the second and third of November, to
+
+54
+00:02:59,295 --> 00:03:01,371
+work on customs and technical details.
+
+55
+00:03:01,371 --> 00:03:05,367
+India's commerce secretary says the talks are on the right path.
+
+56
+00:03:05,367 --> 00:03:09,745
+But as far as we could find, no legal text has been published.
+
+57
+00:03:09,745 --> 00:03:15,151
+India says it hopes to close the first part, covering goods only, by the end of
+
+58
+00:03:15,151 --> 00:03:15,869
+March next year.
+
+59
+00:03:15,869 --> 00:03:18,930
+That is India's aim, not a fixed date.
+
+60
+00:03:19,380 --> 00:03:21,212
+Finally, what don't we know?
+
+61
+00:03:21,212 --> 00:03:25,485
+We don't know when the next formal round is, or what the first part will contain.
+
+62
+00:03:25,485 --> 00:03:31,393
+Prime Minister Modi is in Manila this week, and President Trump is at the ASEAN-US
+
+63
+00:03:31,393 --> 00:03:32,327
+summit there.
+
+64
+00:03:32,327 --> 00:03:37,018
+The Indian foreign ministry said earlier this month that a meeting between them is
+
+65
+00:03:37,018 --> 00:03:37,912
+still in the works.
+
+66
+00:03:38,353 --> 00:03:39,298
+To sum up:
+
+67
+00:03:39,298 --> 00:03:42,920
+what was announced in February is not what applies today.
+
+68
+00:03:42,920 --> 00:03:47,637
+What applies is a ten per cent extra duty and a court ruling that changed the rules.
+
+69
+00:03:47,637 --> 00:03:52,826
+Indian government sources also report an assurance of better terms, which the United
+
+70
+00:03:52,826 --> 00:03:55,671
+States has not confirmed.
+
+71
+00:03:55,671 --> 00:04:00,118
+The open question is what India will pay compared with its rivals.
+
+72
+00:04:00,118 --> 00:04:03,130
+{happy}Thanks for listening, and see you in the next episode!
+
