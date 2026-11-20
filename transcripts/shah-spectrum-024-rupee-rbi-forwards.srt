@@ -1,0 +1,224 @@
+1
+00:00:00,120 --> 00:00:02,414
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,414 --> 00:00:05,334
+If you're new here, welcome.
+
+3
+00:00:05,334 --> 00:00:08,809
+If you're back again, it's lovely to have you with us.
+
+4
+00:00:08,809 --> 00:00:13,564
+{happy}The rupee has been holding near ninety-four to the dollar, and reports say
+
+5
+00:00:13,564 --> 00:00:17,698
+the Reserve Bank of India, the RBI, has had a hand in that.
+
+6
+00:00:17,698 --> 00:00:23,176
+But it may have done it by making promises it will have to keep later.
+
+7
+00:00:23,176 --> 00:00:27,376
+So what has the RBI promised, and when do those promises fall due?
+
+8
+00:00:27,376 --> 00:00:28,800
+{happy}Hi, I'm Mittal Shah.
+
+9
+00:00:28,800 --> 00:00:30,823
+Let's walk through it, step by step.
+
+10
+00:00:30,823 --> 00:00:32,610
+{fluent}First, what is a forward contract?
+
+11
+00:00:32,610 --> 00:00:40,010
+It is a deal made today to buy or sell dollars on a fixed date in the future, at a
+
+12
+00:00:40,010 --> 00:00:41,060
+price agreed today.
+
+13
+00:00:41,060 --> 00:00:42,459
+The RBI uses these contracts.
+
+14
+00:00:42,459 --> 00:00:47,460
+When it sells dollars forward, it can steady the rupee now, without paying out any
+
+15
+00:00:47,460 --> 00:00:49,544
+dollars from its reserves today.
+
+16
+00:00:50,042 --> 00:00:51,881
+Now, how big is this?
+
+17
+00:00:51,881 --> 00:00:55,687
+One research report says that at the end of September, the RBI's net short forward
+
+18
+00:00:55,687 --> 00:01:01,261
+position was about two hundred and thirty-nine billion dollars.
+
+19
+00:01:01,261 --> 00:01:04,472
+Net short means it has sold more dollars forward than it has bought.
+
+20
+00:01:04,472 --> 00:01:09,148
+We have not seen the RBI's own table for that figure, so treat it as a reported
+
+21
+00:01:09,148 --> 00:01:10,142
+estimate.
+
+22
+00:01:10,569 --> 00:01:12,806
+So when do those contracts fall due?
+
+23
+00:01:12,806 --> 00:01:17,778
+The same report says about forty billion dollars falls due within a year.
+
+24
+00:01:17,778 --> 00:01:21,506
+About fifty-six billion falls due in one to three years.
+
+25
+00:01:21,506 --> 00:01:26,726
+And about one hundred and forty-three billion falls due in three to five years.
+
+26
+00:01:26,726 --> 00:01:31,956
+The longer ones are mainly linked to foreign-currency deposits that banks took from
+
+27
+00:01:31,956 --> 00:01:33,264
+non-resident Indians.
+
+28
+00:01:33,687 --> 00:01:36,517
+Next, why does this matter for the rupee?
+
+29
+00:01:36,517 --> 00:01:41,522
+Because forward selling is a way to steady the rupee now and settle later.
+
+30
+00:01:41,522 --> 00:01:46,328
+In the latest weekly figure we have, for the week to the twenty-third of October,
+
+31
+00:01:46,328 --> 00:01:50,544
+the RBI's reserves were about seven hundred and twenty billion dollars.
+
+32
+00:01:50,544 --> 00:01:54,237
+That is the headline figure.
+
+33
+00:01:54,237 --> 00:01:59,373
+Some analysts argue that, because of these contracts, the dollars truly free to use
+
+34
+00:01:59,373 --> 00:02:00,859
+are fewer than that.
+
+35
+00:02:00,859 --> 00:02:03,906
+That is their reading, not an official number.
+
+36
+00:02:04,332 --> 00:02:06,883
+Now, a fair point on the other side.
+
+37
+00:02:06,883 --> 00:02:12,062
+One analysis says this position is not by itself a loss, and not a direct claim on
+
+38
+00:02:12,062 --> 00:02:12,967
+the reserves.
+
+39
+00:02:12,967 --> 00:02:17,334
+What matters is when the contracts fall due, and what the RBI does about them then.
+
+40
+00:02:17,334 --> 00:02:21,172
+So the timing matters more than the size.
+
+41
+00:02:21,587 --> 00:02:23,594
+As that shows, the rupee's level reaches you too.
+
+42
+00:02:23,594 --> 00:02:27,239
+When the rupee is weaker, imported goods cost more.
+
+43
+00:02:27,239 --> 00:02:31,597
+That includes fuel, electronics, and foreign travel and fees.
+
+44
+00:02:31,597 --> 00:02:37,211
+Reports say that at its weakest, the rupee came close to ninety-seven to the dollar.
+
+45
+00:02:37,211 --> 00:02:40,585
+Around the middle of November it was near ninety-four.
+
+46
+00:02:41,009 --> 00:02:43,356
+Finally, what do we not know?
+
+47
+00:02:43,356 --> 00:02:46,889
+We do not know how the RBI plans to handle the contracts as they fall due.
+
+48
+00:02:47,390 --> 00:02:48,662
+To sum up:
+
+49
+00:02:48,662 --> 00:02:52,861
+the RBI has helped steady the rupee by making promises for later.
+
+50
+00:02:52,861 --> 00:02:58,517
+About two hundred and thirty-nine billion dollars, by one estimate, is still to be
+
+51
+00:02:58,517 --> 00:03:02,123
+delivered, most of it more than a year away.
+
+52
+00:03:02,123 --> 00:03:06,354
+The open question is what happens as those contracts fall due.
+
+53
+00:03:06,773 --> 00:03:07,959
+Before you go:
+
+54
+00:03:07,959 --> 00:03:11,750
+we covered this in episode three, India's emergency fund:
+
+55
+00:03:11,750 --> 00:03:13,067
+why forex reserves fell.
+
+56
+00:03:13,067 --> 00:03:17,230
+{happy}Thanks for listening, and see you in the next episode!
+
