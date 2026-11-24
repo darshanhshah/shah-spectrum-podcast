@@ -1,0 +1,292 @@
+1
+00:00:00,130 --> 00:00:02,692
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,692 --> 00:00:04,753
+If you're new here, welcome.
+
+3
+00:00:04,753 --> 00:00:07,908
+If you're back again, it's good to have you with us.
+
+4
+00:00:07,908 --> 00:00:11,825
+{happy}What can one announcement do to a stock market?
+
+5
+00:00:11,825 --> 00:00:18,652
+On Monday, a single announcement helped lift the S&P 500, an index of big American
+
+6
+00:00:18,652 --> 00:00:22,198
+companies, by about five per cent in a day.
+
+7
+00:00:22,198 --> 00:00:25,399
+That was its best day since April of last year.
+
+8
+00:00:25,399 --> 00:00:26,854
+So did it fix anything?
+
+9
+00:00:26,854 --> 00:00:28,064
+{happy}I'm Mittal Shah.
+
+10
+00:00:28,064 --> 00:00:30,956
+Stay with me, and we'll separate what changed from what didn't.
+
+11
+00:00:30,956 --> 00:00:33,550
+{fluent}First, what happened.
+
+12
+00:00:33,550 --> 00:00:38,415
+On Monday the twenty-third of November, Nvidia, the AI chip maker, announced that
+
+13
+00:00:38,415 --> 00:00:40,964
+Jensen Huang is chief executive again.
+
+14
+00:00:40,964 --> 00:00:48,293
+He is also back as president and as a member of the board, effective immediately.
+
+15
+00:00:48,293 --> 00:00:53,895
+He had resigned earlier this month, and the finance chief, Colette Kress, had been
+
+16
+00:00:53,895 --> 00:00:56,225
+running the company as interim chief executive.
+
+17
+00:00:56,225 --> 00:00:58,928
+Interim means temporary.
+
+18
+00:00:59,414 --> 00:01:02,127
+The board says it voted unanimously.
+
+19
+00:01:02,127 --> 00:01:06,938
+It says it was satisfied with Huang's candor, meaning his openness, and with his
+
+20
+00:01:06,938 --> 00:01:08,339
+ability to lead.
+
+21
+00:01:08,339 --> 00:01:14,247
+It also says it received input from senior levels of the United States government,
+
+22
+00:01:14,247 --> 00:01:19,653
+and is confident his return poses no national security risk.
+
+23
+00:01:20,090 --> 00:01:21,538
+The board added two things.
+
+24
+00:01:21,538 --> 00:01:27,403
+First, a new committee of independent directors to oversee trade compliance and
+
+25
+00:01:27,403 --> 00:01:28,897
+national security risks.
+
+26
+00:01:28,897 --> 00:01:31,380
+Second, a search for a chief compliance officer.
+
+27
+00:01:31,380 --> 00:01:37,030
+And an earlier investigation by independent directors continues.
+
+28
+00:01:37,030 --> 00:01:42,557
+It was opened after reports that Huang was the target of a foreign intelligence
+
+29
+00:01:42,557 --> 00:01:43,157
+effort.
+
+30
+00:01:43,017 --> 00:01:44,564
+Those reports remain unproven.
+
+31
+00:01:44,879 --> 00:01:45,769
+Now, the market.
+
+32
+00:01:45,769 --> 00:01:48,278
+Start with the week before.
+
+33
+00:01:48,278 --> 00:01:53,162
+On Friday the twentieth, the Nasdaq, the index heavy with technology companies, fell
+
+34
+00:01:53,162 --> 00:01:56,974
+about five per cent in one day.
+
+35
+00:01:56,974 --> 00:02:01,953
+The S&P 500, which tracks five hundred of America's biggest listed companies, was
+
+36
+00:02:01,953 --> 00:02:06,460
+down more than eleven per cent from its record on the sixth of October.
+
+37
+00:02:06,460 --> 00:02:10,704
+Market people call a fall of ten per cent or more a correction.
+
+38
+00:02:11,096 --> 00:02:12,511
+Then Monday flipped it.
+
+39
+00:02:12,511 --> 00:02:18,422
+By the close, the S&P 500 was up about five per cent, the Nasdaq up more than six
+
+40
+00:02:18,422 --> 00:02:23,800
+per cent, and the Dow, an index of thirty big companies, up about three per cent.
+
+41
+00:02:23,800 --> 00:02:27,728
+All three had their best day since April twenty twenty-five.
+
+42
+00:02:27,728 --> 00:02:30,233
+Nvidia's shares rose by about a third.
+
+43
+00:02:30,616 --> 00:02:33,412
+Why could one announcement move so much?
+
+44
+00:02:33,412 --> 00:02:39,380
+The S&P 500 and the Nasdaq give bigger companies more weight, so the biggest names
+
+45
+00:02:39,380 --> 00:02:40,404
+pull them hardest.
+
+46
+00:02:40,404 --> 00:02:45,192
+When the biggest names in AI move together, the whole index feels it.
+
+47
+00:02:45,584 --> 00:02:48,407
+But the fall was not only about one man.
+
+48
+00:02:48,407 --> 00:02:52,007
+Earlier this month, the worry was politics and power bills.
+
+49
+00:02:52,007 --> 00:02:54,173
+Behind it sits a bigger question:
+
+50
+00:02:54,173 --> 00:02:59,601
+will all the money companies are spending on AI chips, buildings and power ever pay
+
+51
+00:02:59,601 --> 00:03:00,201
+off?
+
+52
+00:02:59,834 --> 00:03:04,905
+By one news outlet's count, the S&P 500 had lost about eight trillion dollars of
+
+53
+00:03:04,905 --> 00:03:05,771
+value by Friday.
+
+54
+00:03:05,771 --> 00:03:07,329
+Monday won back about three trillion.
+
+55
+00:03:07,329 --> 00:03:12,001
+That leaves it about five trillion short of its October record.
+
+56
+00:03:12,432 --> 00:03:15,028
+So did Huang's return answer the question?
+
+57
+00:03:15,028 --> 00:03:18,272
+One fund chief investment officer said no:
+
+58
+00:03:18,272 --> 00:03:22,877
+it does not answer the big questions about whether AI spending will pay off.
+
+59
+00:03:22,877 --> 00:03:24,055
+That is a view, not a fact.
+
+60
+00:03:24,377 --> 00:03:25,507
+What do we not know?
+
+61
+00:03:25,507 --> 00:03:30,151
+The company gave no reason for the resignation.
+
+62
+00:03:30,151 --> 00:03:33,088
+The investigation has published no findings.
+
+63
+00:03:33,088 --> 00:03:36,774
+And one day's rally does not tell us what comes next.
+
+64
+00:03:36,774 --> 00:03:37,853
+{happy}To sum up:
+
+65
+00:03:37,853 --> 00:03:43,440
+a rally followed one announcement, and the announcement changed who leads Nvidia.
+
+66
+00:03:43,440 --> 00:03:46,846
+It did not settle whether AI spending will pay off.
+
+67
+00:03:46,846 --> 00:03:50,377
+{happy}This is news and explanation, not investment advice.
+
+68
+00:03:50,377 --> 00:03:53,384
+Before you go, we covered this story earlier:
+
+69
+00:03:53,384 --> 00:03:54,809
+"AI shares sell-off:
+
+70
+00:03:54,809 --> 00:04:00,593
+data centres and the election", on the sixth of November, and "Nvidia reports
+
+71
+00:04:00,593 --> 00:04:04,541
+results days after its CEO resigned", on the sixteenth.
+
+72
+00:04:04,541 --> 00:04:06,609
+Both links are in the description.
+
+73
+00:04:06,609 --> 00:04:09,718
+Thanks for listening, and see you in the next episode!
+
