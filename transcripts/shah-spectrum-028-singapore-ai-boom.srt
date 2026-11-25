@@ -1,0 +1,284 @@
+1
+00:00:00,143 --> 00:00:02,917
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,917 --> 00:00:07,407
+Today's story starts on a small island with a very big number.
+
+3
+00:00:07,407 --> 00:00:11,086
+{happy}Here is a number that sounds like a mistake.
+
+4
+00:00:11,086 --> 00:00:16,904
+Singapore, a small island city, produced six point one per cent more in July to
+
+5
+00:00:16,904 --> 00:00:19,615
+September than in the same three months a year earlier.
+
+6
+00:00:19,615 --> 00:00:22,507
+So what is it selling that the world wants so much?
+
+7
+00:00:22,507 --> 00:00:28,837
+{happy}I'm Mittal Shah, and today I'll show you what this tiny economy tells us
+
+8
+00:00:28,837 --> 00:00:31,508
+about who gains when the world spends big on AI.
+
+9
+00:00:31,508 --> 00:00:32,196
+{fluent}First, the numbers.
+
+10
+00:00:32,196 --> 00:00:38,629
+On Tuesday, Singapore's Ministry of Energy, Trade and Industry published its figures
+
+11
+00:00:38,629 --> 00:00:40,261
+for July to September.
+
+12
+00:00:40,261 --> 00:00:45,190
+The economy grew six point one per cent from the same quarter last year.
+
+13
+00:00:45,190 --> 00:00:50,689
+Compared with the previous three months, adjusted for seasonal patterns, it grew one
+
+14
+00:00:50,689 --> 00:00:51,906
+point five per cent.
+
+15
+00:00:52,304 --> 00:00:54,123
+That beat the first estimate.
+
+16
+00:00:54,123 --> 00:01:00,500
+In October, the early figure was five point four per cent, based mostly on July and
+
+17
+00:01:00,500 --> 00:01:01,133
+August data.
+
+18
+00:01:01,133 --> 00:01:02,401
+Later data pushed it up.
+
+19
+00:01:02,401 --> 00:01:08,142
+Over the first nine months, the economy is six point two per cent bigger than a year
+
+20
+00:01:08,142 --> 00:01:08,742
+earlier.
+
+21
+00:01:08,635 --> 00:01:13,555
+So the government raised its forecast for the whole of this year to around six per
+
+22
+00:01:13,555 --> 00:01:19,003
+cent, up from a range of four and a half to five and a half.
+
+23
+00:01:19,394 --> 00:01:20,471
+Now, what is behind the strength?
+
+24
+00:01:20,471 --> 00:01:21,505
+The ministry points to AI.
+
+25
+00:01:21,505 --> 00:01:27,365
+It says AI-related production and exports have kept accelerating since August,
+
+26
+00:01:27,365 --> 00:01:31,522
+driven by a stronger-than-expected build-out of data centres.
+
+27
+00:01:31,973 --> 00:01:33,711
+Here is how that works.
+
+28
+00:01:33,711 --> 00:01:37,391
+A data centre is a huge building full of computers.
+
+29
+00:01:37,391 --> 00:01:43,950
+Before anyone can switch one on, someone must make the electronic parts, move them
+
+30
+00:01:43,950 --> 00:01:44,549
+and sell them.
+
+31
+00:01:44,480 --> 00:01:46,247
+Singapore's figures show that work.
+
+32
+00:01:46,247 --> 00:01:53,124
+Manufacturing grew eight point five per cent from a year earlier, led by electronics
+
+33
+00:01:53,124 --> 00:01:54,497
+and precision engineering.
+
+34
+00:01:54,497 --> 00:01:59,780
+And wholesale trade, which is firms selling to other businesses, grew fourteen point
+
+35
+00:01:59,780 --> 00:02:05,287
+five per cent, led by firms selling machinery, telecom and computer equipment and
+
+36
+00:02:05,287 --> 00:02:08,040
+electronic components.
+
+37
+00:02:08,577 --> 00:02:12,448
+Now look at the other side of the same economy.
+
+38
+00:02:12,448 --> 00:02:16,276
+Retail trade, which is shops selling to ordinary shoppers, fell two point seven per
+
+39
+00:02:16,276 --> 00:02:18,154
+cent, also from a year earlier.
+
+40
+00:02:18,154 --> 00:02:24,332
+Food and beverage services, which means restaurants and cafes, fell two point one
+
+41
+00:02:24,332 --> 00:02:24,932
+per cent.
+
+42
+00:02:24,805 --> 00:02:26,297
+So growth is uneven:
+
+43
+00:02:26,297 --> 00:02:31,576
+strong in making and trading AI-related goods, negative in shops and restaurants.
+
+44
+00:02:31,976 --> 00:02:36,238
+And the ministry expects a slower year in twenty twenty-seven.
+
+45
+00:02:36,238 --> 00:02:40,973
+It forecasts growth of two and a half to four and a half per cent for twenty
+
+46
+00:02:40,973 --> 00:02:44,832
+twenty-seven, and says growth is projected to moderate.
+
+47
+00:02:44,832 --> 00:02:49,566
+It expects the pace of AI spending to ease from its high level this year.
+
+48
+00:02:49,959 --> 00:02:51,096
+It also lists risks.
+
+49
+00:02:51,096 --> 00:02:55,713
+First, concerns about whether the global AI cycle can last could trigger sharper
+
+50
+00:02:55,713 --> 00:02:57,760
+corrections in financial markets.
+
+51
+00:02:57,760 --> 00:03:03,026
+Second, further escalation of the conflict in the Middle East could bring fresh
+
+52
+00:03:03,026 --> 00:03:04,020
+spikes in energy prices.
+
+53
+00:03:04,020 --> 00:03:10,398
+Third, economic and political uncertainty in other economies could weigh on
+
+54
+00:03:10,398 --> 00:03:11,841
+investment and spending.
+
+55
+00:03:12,248 --> 00:03:15,856
+That first risk is the open question behind the whole boom.
+
+56
+00:03:15,856 --> 00:03:20,018
+Will all the money going into AI chips, buildings and power pay off?
+
+57
+00:03:20,018 --> 00:03:25,130
+Singapore is one place where the spending shows up as real growth today.
+
+58
+00:03:25,130 --> 00:03:28,604
+It is also a place that would feel it if the spending slowed.
+
+59
+00:03:28,979 --> 00:03:30,420
+So what do we not know?
+
+60
+00:03:30,420 --> 00:03:34,023
+Nobody knows how long the data centre build-out will last.
+
+61
+00:03:34,023 --> 00:03:38,178
+And one strong quarter does not tell us how the next ones will go.
+
+62
+00:03:38,178 --> 00:03:39,346
+{happy}To sum up:
+
+63
+00:03:39,346 --> 00:03:44,414
+AI-related demand for the parts Singapore makes and trades has lifted its growth
+
+64
+00:03:44,414 --> 00:03:45,014
+this year.
+
+65
+00:03:44,886 --> 00:03:49,132
+Its own ministry expects both growth and AI spending to ease next year.
+
+66
+00:03:49,132 --> 00:03:54,215
+{happy}Before you go, we covered related stories:
+
+67
+00:03:54,215 --> 00:03:55,422
+"AI shares sell-off:
+
+68
+00:03:55,422 --> 00:04:00,797
+data centres and the election", on the sixth of November, and "Nvidia reinstates its
+
+69
+00:04:00,797 --> 00:04:03,371
+CEO and Wall Street rebounds", on the twenty-fourth.
+
+70
+00:04:03,371 --> 00:04:05,589
+Both links are in the description.
+
+71
+00:04:05,589 --> 00:04:08,782
+Thanks for listening, and see you in the next episode!
+
