@@ -1,0 +1,296 @@
+1
+00:00:00,127 --> 00:00:02,456
+{happy}Hello, and welcome to Shah Spectrum.
+
+2
+00:00:02,456 --> 00:00:08,131
+Today's story is about an exam, a pair of glasses, and a minister who stepped down.
+
+3
+00:00:08,131 --> 00:00:14,184
+{happy}Imagine sitting the most important exam of your life, and the person at the
+
+4
+00:00:14,184 --> 00:00:18,731
+next desk may be wearing glasses that can read the question and find the answer.
+
+5
+00:00:18,731 --> 00:00:19,613
+Could anyone tell?
+
+6
+00:00:19,613 --> 00:00:21,729
+South Korea has just had to face that question.
+
+7
+00:00:21,729 --> 00:00:26,870
+{happy}I'm Mittal Shah, and today I'll walk you through how an AI cheating scandal
+
+8
+00:00:26,870 --> 00:00:32,295
+ended with a government minister resigning, and what it says about exams everywhere.
+
+9
+00:00:32,295 --> 00:00:33,955
+{fluent}First, the exam.
+
+10
+00:00:33,955 --> 00:00:38,700
+On Thursday the nineteenth of November, roughly half a million students sat South
+
+11
+00:00:38,700 --> 00:00:42,554
+Korea's national college entrance test, called the Suneung.
+
+12
+00:00:42,554 --> 00:00:45,504
+It is a single national exam taken on one day.
+
+13
+00:00:45,504 --> 00:00:47,477
+The country goes quiet for it.
+
+14
+00:00:47,477 --> 00:00:51,990
+Flights are held back during the listening section, and stock trading is delayed.
+
+15
+00:00:52,482 --> 00:00:53,891
+Now, the scandal.
+
+16
+00:00:53,891 --> 00:00:58,988
+On Sunday the fifteenth, a man who had topped the national tax accountant exam said,
+
+17
+00:00:58,988 --> 00:01:02,302
+in a video posted by his lawyer, how he did it.
+
+18
+00:01:02,302 --> 00:01:07,801
+He says he photographed the questions with a tiny camera, sent them to generative
+
+19
+00:01:07,801 --> 00:01:13,049
+AI, which is software that writes answers to questions, and read the answers on his
+
+20
+00:01:13,049 --> 00:01:13,649
+phone.
+
+21
+00:01:13,534 --> 00:01:18,680
+He says he used the same method on another professional exam, and that he has turned
+
+22
+00:01:18,680 --> 00:01:19,280
+himself in.
+
+23
+00:01:19,267 --> 00:01:21,400
+A police unit has been assigned.
+
+24
+00:01:21,400 --> 00:01:26,149
+Reports also describe test-takers caught with AI smart glasses, which are glasses
+
+25
+00:01:26,149 --> 00:01:31,519
+with a built-in camera and an AI assistant, on an English test in June and on some
+
+26
+00:01:31,519 --> 00:01:34,453
+university essay exams in October.
+
+27
+00:01:35,006 --> 00:01:38,156
+So what did the government do?
+
+28
+00:01:38,156 --> 00:01:42,049
+On Monday the sixteenth, Education Minister Choi Kyo-jin told lawmakers that
+
+29
+00:01:42,049 --> 00:01:44,973
+AI-assisted cheating would be hard to catch in every form.
+
+30
+00:01:44,973 --> 00:01:51,692
+He declined calls to postpone the exam, saying a delay would cause an even larger
+
+31
+00:01:51,692 --> 00:01:52,583
+disruption for students.
+
+32
+00:01:52,583 --> 00:01:56,064
+Then, two days before the test, the ministry announced new rules.
+
+33
+00:01:56,064 --> 00:01:57,932
+Glasses would be inspected.
+
+34
+00:01:57,932 --> 00:02:01,251
+Shirt buttons would be covered and sleeves rolled up.
+
+35
+00:02:01,251 --> 00:02:05,754
+Phones across the country would get random emergency-style alerts.
+
+36
+00:02:05,754 --> 00:02:08,069
+And public Wi-Fi near test centres would be shut down.
+
+37
+00:02:08,530 --> 00:02:11,901
+Here is why that was so difficult.
+
+38
+00:02:11,901 --> 00:02:16,189
+Officials said metal and radio detectors, which pick up wireless signals, would be
+
+39
+00:02:16,189 --> 00:02:16,789
+limited.
+
+40
+00:02:16,758 --> 00:02:23,186
+Thermal cameras, which sense body heat, were highly unlikely because of privacy
+
+41
+00:02:23,186 --> 00:02:23,786
+concerns.
+
+42
+00:02:23,669 --> 00:02:27,310
+Jamming, meaning blocking phone signals, is prohibited.
+
+43
+00:02:27,310 --> 00:02:32,983
+And an opposition spokesperson said radio detectors had failed to detect AI glasses
+
+44
+00:02:32,983 --> 00:02:33,891
+in a mock test.
+
+45
+00:02:34,277 --> 00:02:39,458
+After the exam, the ministry said a hundred and eleven people were suspected of
+
+46
+00:02:39,458 --> 00:02:44,433
+using electronic devices, and fifty-four of those cases were flagged through the
+
+47
+00:02:44,433 --> 00:02:45,377
+phone alerts.
+
+48
+00:02:45,377 --> 00:02:49,150
+A task force is still reviewing Wi-Fi and Bluetooth signals.
+
+49
+00:02:49,150 --> 00:02:53,938
+On Sunday the twenty-second, the minister announced his resignation.
+
+50
+00:02:53,938 --> 00:03:00,069
+One report says he pointed to public criticism over how early the ministry prepared.
+
+51
+00:03:00,382 --> 00:03:01,097
+So, could anyone tell?
+
+52
+00:03:01,097 --> 00:03:02,343
+Partly.
+
+53
+00:03:02,343 --> 00:03:06,802
+The phone alerts flagged fifty-four cases, but detectors have limits, and the full
+
+54
+00:03:06,802 --> 00:03:08,124
+review is still under way.
+
+55
+00:03:08,501 --> 00:03:11,124
+Now, why does one score matter so much?
+
+56
+00:03:11,124 --> 00:03:16,589
+One report puts private tutoring in South Korea at about twenty-seven and a half
+
+57
+00:03:16,589 --> 00:03:20,605
+trillion won in twenty twenty-five, roughly twenty billion dollars.
+
+58
+00:03:20,605 --> 00:03:23,237
+That shows how much rides on a single result.
+
+59
+00:03:23,630 --> 00:03:28,149
+As for what comes next, on the twentieth, President Lee Jae-myung called for a
+
+60
+00:03:28,149 --> 00:03:31,367
+sweeping overhaul of national exams.
+
+61
+00:03:31,367 --> 00:03:36,390
+Seoul's city education office put forward a plan last December to phase the Suneung
+
+62
+00:03:36,390 --> 00:03:38,198
+out by the twenty-forty school year.
+
+63
+00:03:38,198 --> 00:03:41,606
+The national government has not adopted that plan.
+
+64
+00:03:42,041 --> 00:03:43,501
+So what do we not know?
+
+65
+00:03:43,501 --> 00:03:49,487
+We do not know how many of the hundred and eleven suspected cases will be confirmed.
+
+66
+00:03:49,487 --> 00:03:53,797
+One proposal would ban cheaters from retaking the exam for years.
+
+67
+00:03:53,797 --> 00:03:56,024
+It is a proposal, not a law.
+
+68
+00:03:56,024 --> 00:04:01,370
+And the government says AI companies will provide records to investigators, but none
+
+69
+00:04:01,370 --> 00:04:02,476
+has been named.
+
+70
+00:04:02,476 --> 00:04:03,538
+{happy}To sum up:
+
+71
+00:04:03,538 --> 00:04:07,805
+AI can now answer almost any question on a page, and catching it is hard.
+
+72
+00:04:07,805 --> 00:04:13,383
+So South Korea is asking what a fair test should measure when answers are cheap.
+
+73
+00:04:13,383 --> 00:04:16,169
+It may be a question for every exam.
+
+74
+00:04:16,169 --> 00:04:19,258
+{happy}Thanks for listening, and see you in the next episode!
+
